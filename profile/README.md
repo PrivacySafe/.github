@@ -1,10 +1,14 @@
 # PrivacySafe
 
-We make an uncompromisingly user-centric digital space, addressing every single major privacy, security and ownership aspect. 
+We make an uncompromisingly user-centric digital space, addressing every single major privacy, security and ownership aspect. Our approach is simple: user computation is moved onto user-owned devices while servers see no user data and dictate nothing. User installs and runs apps on PrivacySafe client-side platform while utility servers don't know what apps use their utility services.
+
 
 ## 3NWeb protocols
 
-Tech freedom starts with standards. [3NWeb](https://github.com/PrivacySafe/3NWeb-architecture#readme) is a set protocols for client-server communication, formats for data on clients, API's that separate common client side base and custom applications that can run on top of it. 
+Tech freedom starts with standards. [3NWeb](https://github.com/PrivacySafe/3NWeb-architecture#readme) is a set protocols for client-server communication, formats for data on clients, API's that separate common client side base and custom applications that can run on top of it.
+
+3NWeb client-server protocols are formulated strictly within an Application layer in an OSI networking model, allowing combining with privacy-respecting Transport layer(s) for an absolutely private digital realm. 3NWeb is a "killer app" for onion networks like Tor, and mixnets like Nym. Or more specifically, 3NWeb is a "killer app foundation" that let's user-facing app developers do their amazing work without worring about cryptographic intricacies.
+
 
 ## PrivacySafe implementation
 
