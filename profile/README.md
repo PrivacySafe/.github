@@ -20,7 +20,7 @@ Due to metadata disclosure, classical architecture of federation is viewed as in
 
 Luckily for users there is another architectural way to having federation: the [web-style federation](https://github.com/PrivacySafe/3NWeb-architecture#federated-systems-classical-vs-web-styles). In this architecture client finds and delivers bytes directly into peer's "home inbox server". When such delivery is anonymous, metadata drops to harmless levels at the Application network layer. Direct finding and talking to servers is what web client, hence this second approach to federation is called web-style. The "Web" part in 3NWeb indicates systematic use of web-style federation.
 
-Web-style federation gives a way to minimize metadata at the Application network layer. This leaves an eavesdropper only with metadata at the Transport network layer, in particular IP addresses. VPNs, onion network and mixnets are transport mechanisms that hide user IP addresses. Client side platform should use some of these methods, like client side Tor browser uses The Onion Network.
+Web-style federation gives a way to minimize metadata at the Application network layer. This leaves an eavesdropper only with metadata at the Transport network layer, in particular IP addresses. VPNs, onion network and mixnets are transport mechanisms that hide user IP addresses. Client side platform should use some of these methods, like client side Tor browser uses The Onion Router network.
 
 
 ## PrivacySafe implementation
