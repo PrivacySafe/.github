@@ -1,6 +1,6 @@
 # PrivacySafe
 
-We make an uncompromisingly user-centric digital space, addressing every single major privacy, security and ownership aspect. Our approach is simple: user computation is moved onto user-owned devices while servers see no user data and dictate nothing. User installs and runs apps on PrivacySafe client-side platform while utility servers don't know what apps use their utility services.
+We make an uncompromisingly user-centric digital space, addressing every single major privacy, security and ownership aspect. Our approach is simple: user computation and networking controls are moved onto user-owned devices while servers see no user data and dictate nothing. User installs and runs apps on PrivacySafe client-side platform while utility servers don't know what apps use their utility services.
 
 
 ## 3NWeb protocols
