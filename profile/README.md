@@ -34,3 +34,8 @@ There are three parts:
  ### Made for all desktops
  
 [Chat on Mac and Linux (v.0.14.74)](https://user-images.githubusercontent.com/13634613/236695491-49a386a6-08a8-4d85-b362-f26ce67b5e17.webm)
+
+### Works with multiple accounts on a desktop
+
+[v.0.14.74_-_multi_account_mac_desktop_integration.webm](https://user-images.githubusercontent.com/13634613/236700910-0fe515eb-fa9c-4ce8-906e-d5a87b919ba4.webm)
+
