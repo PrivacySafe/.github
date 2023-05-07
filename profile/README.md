@@ -28,7 +28,7 @@ Web-style federation gives a way to minimize metadata at the Application network
 There are three parts:
  - [spec-server](https://github.com/PrivacySafe/spec-server) is a server side implementation of all 3NWeb utility protocols: MailerId, 3NStorage and ASMail. This is a reference implementation with test suites for aforementioned protocols.
  - [PrivacySafe](https://github.com/PrivacySafe/privacysafe-platform-electron) implements a client side platform that is a base for user-facing 3NWeb applications.
- - PrivacySafe 3NWeb applications for system needs like [apps launcher](https://github.com/PrivacySafe/launcher.app.privacysafe.io), [apps installer with updates](https://github.com/PrivacySafe/installer.app.privacysafe.io), and applications for user needs like [contacts](https://github.com/PrivacySafe/contacts.app.privacysafe.io), [inbox](https://github.com/PrivacySafe/inbox.app.privacysafe.io), [files](https://github.com/PrivacySafe/files.app.privacysafe.io).
+ - PrivacySafe 3NWeb applications for system needs like [apps launcher](https://github.com/PrivacySafe/launcher.app.privacysafe.io), [apps installer with updates](https://github.com/PrivacySafe/installer.app.privacysafe.io), and applications for user needs like [contacts](https://github.com/PrivacySafe/contacts.app.privacysafe.io), [chat](https://github.com/PrivacySafe/chat.app.privacysafe.io), [files](https://github.com/PrivacySafe/files.app.privacysafe.io).
  
  
  ### Made for all desktops
