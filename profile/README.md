@@ -37,5 +37,5 @@ There are three parts:
 
 ### Works with multiple accounts on a desktop
 
-[v.0.14.74_-_multi_account_mac_desktop_integration.webm](https://user-images.githubusercontent.com/13634613/236700910-0fe515eb-fa9c-4ce8-906e-d5a87b919ba4.webm)
+[Several 3NWeb accounts on Mac (v.0.14.74)](https://user-images.githubusercontent.com/13634613/236700910-0fe515eb-fa9c-4ce8-906e-d5a87b919ba4.webm)
 
