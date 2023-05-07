@@ -31,6 +31,6 @@ There are three parts:
  - PrivacySafe 3NWeb applications for system needs like [apps launcher](https://github.com/PrivacySafe/launcher.app.privacysafe.io), [apps installer with updates](https://github.com/PrivacySafe/installer.app.privacysafe.io), and applications for user needs like [contacts](https://github.com/PrivacySafe/contacts.app.privacysafe.io), [inbox](https://github.com/PrivacySafe/inbox.app.privacysafe.io), [files](https://github.com/PrivacySafe/files.app.privacysafe.io).
  
  
- ### Runs on all desktops
+ ### Made for all desktops
  
-[v.0.14.74_-_chat_on_mac_and_linux.webm](https://user-images.githubusercontent.com/13634613/236695491-49a386a6-08a8-4d85-b362-f26ce67b5e17.webm)
+[Chat on Mac and Linux (v.0.14.74)](https://user-images.githubusercontent.com/13634613/236695491-49a386a6-08a8-4d85-b362-f26ce67b5e17.webm)
