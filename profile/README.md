@@ -1,41 +1,23 @@
-# PrivacySafe
+<p align="center">
+  <a href="https://privacysafe.app"><img src="https://avatars.githubusercontent.com/u/55242566" width="300" height="300" /></a>
+</p>
 
-We make an uncompromisingly user-centric digital space, addressing every single major privacy, security and ownership aspect. Our approach is simple: user computation and networking controls are moved onto user-owned devices while servers see no user data and dictate nothing. User installs and runs apps on PrivacySafe client-side platform while utility servers don't know what apps use their utility services.
+# PrivacySafe &ndash; Speak, Share & Work Safely.
 
+[PrivacySafe](https://privacysafe.app) is building a suite of privacy-by-design solutions for home and business.
 
-## 3NWeb protocols
+* Get started with our free apps such as [PrivacySafe Social](https://privacysafe.social) – No Ads, No Spyware, No Timeline Manipulation, No AI.
 
-Tech freedom starts with standards. [3NWeb](https://github.com/PrivacySafe/3NWeb-architecture#readme) is a set protocols for client-server communication, formats for data on clients, API's that separate common client side base and custom applications that can run on top of it.
+* [PrivacySafe Link](https://privacysafe.social)  – Secret &amp; Secure Notes that Self-Destruct After Reading
 
-3NWeb client-server protocols are formulated strictly within an Application layer in an OSI networking model, allowing combining with privacy-respecting Transport layer(s) for an absolutely private digital realm. 3NWeb is a "killer app" for onion networks like Tor, and mixnets like Nym. Or more specifically, 3NWeb is a "killer app foundation" that let's user-facing app developers do their amazing work without worring about cryptographic intricacies.
+## Contributing
+Contributions are welcome! Please fork, remix, and create pull requests. Happy Hacking :)
 
+Never send sensitive info about you or other users via direct message or email.
 
-## Federation, the web style
+* **Bugs &amp; Security Issues:** See [SECURITY.md](https://github.com/PrivacySafe/privacysafe-link/blob/main/SECURITY.md) for more information.
 
-Tech sovereignty and freedom requires federation. There are two architectural ways to deliver federated user experience.
+* **Report Abuse:** Email <a href="mailto:abuse@privacysafe.net" target="_blank">abuse@privacysafe.net</a> (<a href="https://psafe.ly/xSpQhF" target="_blank">PGP</a>)
 
-One is a classical federation in which client side delegates to "home server" all of its network activity, namely delivering messages to peer's "home inbox server". Such delegation requires client side to tell the server message destination, it requires to devulge communication metadata to so-called third parties at an Application network layer.
-
-Due to metadata disclosure, classical architecture of federation is viewed as incompatible with privacy. Historically it's been a painful point, cause when one thinks that classical architecture is the only way to deliver federation, then with privacy there is no room for user tech sovereignty. We've seen debate between [Signal](https://signal.org/blog/the-ecosystem-is-moving/) and [Matrix](https://matrix.org/blog/2020/01/02/on-privacy-versus-freedom/) developers. Threema devs don't even consider federated protocols in [their messenger comparison](https://threema.ch/en/messenger-comparison).
-
-Luckily for users there is another architectural way to having federation: the [web-style federation](https://github.com/PrivacySafe/3NWeb-architecture#federated-systems-classical-vs-web-styles). In this architecture client finds and delivers bytes directly into peer's "home inbox server". When such delivery is anonymous, metadata drops to harmless levels at the Application network layer. Direct finding and talking to servers is what web client do, hence this second approach to federation is called web-style. The "Web" part in 3NWeb indicates systematic use of web-style federation.
-
-Web-style federation gives a way to minimize metadata at the Application network layer. This leaves an eavesdropper only with metadata at the Transport network layer, in particular IP addresses. VPNs, onion network and mixnets are transport mechanisms that hide user IP addresses. For an absolute privacy, client side platform should use some of these methods, similarly to how client side Tor and Brave browsers use The Onion Router (Tor) network.
-
-
-## PrivacySafe implementation
-
-There are three parts:
- - [spec-server](https://github.com/PrivacySafe/spec-server) is a server side implementation of all 3NWeb utility protocols: MailerId, 3NStorage and ASMail. This is a reference implementation with test suites for aforementioned protocols.
- - [PrivacySafe](https://github.com/PrivacySafe/privacysafe-platform-electron) implements a client side platform that is a base for user-facing 3NWeb applications.
- - PrivacySafe 3NWeb applications for system needs like [apps launcher](https://github.com/PrivacySafe/launcher.app.privacysafe.io), [apps installer with updates](https://github.com/PrivacySafe/installer.app.privacysafe.io), and applications for user needs like [contacts](https://github.com/PrivacySafe/contacts.app.privacysafe.io), [chat](https://github.com/PrivacySafe/chat.app.privacysafe.io), [files](https://github.com/PrivacySafe/files.app.privacysafe.io).
- 
- 
- ### Made for all desktops
- 
-[Chat on Mac and Linux (v.0.14.74)](https://user-images.githubusercontent.com/13634613/236695491-49a386a6-08a8-4d85-b362-f26ce67b5e17.webm)
-
-### Works with multiple accounts on a desktop
-
-[Several 3NWeb accounts on Mac (v.0.14.74)](https://user-images.githubusercontent.com/13634613/236700910-0fe515eb-fa9c-4ce8-906e-d5a87b919ba4.webm)
-
+## License
+© 2019-present PrivacySafe Services LLC. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark.
