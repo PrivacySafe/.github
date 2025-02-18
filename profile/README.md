@@ -4,11 +4,15 @@
 
 # PrivacySafe &ndash; Speak, Share & Work Safely.
 
-[PrivacySafe](https://privacysafe.app) is building a suite of privacy-by-design solutions for home and business.
+[PrivacySafe](https://privacysafe.app) is building a suite of privacy-by-design solutions for home and business. Get started with our free apps such as: 
 
-* Get started with our free apps such as [PrivacySafe Social](https://privacysafe.social) – No Ads, No Spyware, No Timeline Manipulation, No AI.
+* [PrivacySafe Social](https://privacysafe.social) – No Ads, No Spyware, No AI Manipulation. 
 
-* [PrivacySafe Link](https://privacysafe.social)  – Secret &amp; Secure Notes that Self-Destruct After Reading
+* [PrivacySafe Link](https://privacysafe.link)  – Secret &amp; Secure Notes That Self-Destruct After Reading
+
+* [PrivacySafe Locker](https://privacysafe.locker)  – Share Private Files &amp; Memos
+
+* [StickTock](https://sticktock.com)  – Watch, Download &amp; Share TikTok Videos Safely
 
 ## Contributing
 Contributions are welcome! Please fork, remix, and create pull requests. Happy Hacking :)
