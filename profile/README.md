@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://privacysafe.app"><img src="https://avatars.githubusercontent.com/u/55242566" width="300" height="300" /></a>
+  <a href="https://privacysafe.app"><img src="https://avatars.githubusercontent.com/u/55242566" width="200" height="200" /></a>
 </p>
 
 # PrivacySafe &ndash; Speak, Share & Work Safely.
