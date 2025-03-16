@@ -10,6 +10,8 @@
 
 * [PrivacySafe Link](https://privacysafe.link)  – Secret &amp; Secure Notes That Self-Destruct After Reading
 
+* [PrivacySafe Bot](https://privacysafe.bot)  – Secure Password &amp; Passphrase Generator
+
 * [PrivacySafe Locker](https://privacysafe.locker)  – Share Private Files &amp; Memos
 
 * [StickTock](https://sticktock.com)  – Watch, Download &amp; Share TikTok Videos Safely
