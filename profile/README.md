@@ -16,10 +16,20 @@
 
 * [PrivacySafe Locker](https://privacysafe.locker)  – Share Private Files &amp; Memos. [Source](https://github.com/PrivacySafe/privacysafe-locker)
 
-* [StickTock](https://sticktock.com)  – Watch, Download &amp; Share TikTok Videos Safely. [Source](https://github.com/PrivacySafe/sticktock)
+* [StickTock](https://sticktock.com) – Watch, Download &amp; Share TikTok Videos Safely. [Source](https://github.com/PrivacySafe/sticktock)
+
+## Documentation
+
+* [Enterprise Suite User Guides](https://github.com/PrivacySafe/privacysafe-userguides) – Provided for the apps we ship for enteprise users (Chat, Contacts, Inbox, Storage, App Store).
+
+* [PrivacySafe VPN User Guide](https://github.com/PrivacySafe/privacysafe-userguides/blob/main/privacysafe-vpn-setup.md)  – Provided for organizations where we deploy VPN services.
+
+* [Protocols at IEEE](https://opensource.ieee.org/3nweb) – Our protocols are hosted by IEEE SA Open. Our security benefits from testing and auditing by global experts.
+
+* [Architecture Overview](https://github.com/PrivacySafe/3NWeb-architecture) – PrivacySafe is built for the 3NWeb architecture, protocols, and formats. This mirrors a [repo at IEEE](https://opensource.ieee.org/3nweb/architecture).
 
 ## Contributing
-Contributions are welcome! Please fork, remix, and create pull requests. Happy Hacking :)
+Contributions are welcome! Please fork, remix, and create pull requests. Happy Hacking 🤓
 
 Never send sensitive info about you or other users via direct message or email.
 
