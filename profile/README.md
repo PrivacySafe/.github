@@ -20,7 +20,7 @@
 
 ## Documentation
 
-* [Enterprise Suite User Guides](https://github.com/PrivacySafe/privacysafe-userguides) – Provided for the apps we ship for enteprise users (Chat, Contacts, Inbox, Storage, App Store).
+* [Enterprise Suite User Guides](https://github.com/PrivacySafe/privacysafe-userguides) – Provided for the apps we ship for enterprise users (Chat, Contacts, Inbox, Storage, App Store).
 
 * [PrivacySafe VPN User Guide](https://github.com/PrivacySafe/privacysafe-userguides/blob/main/privacysafe-vpn-setup.md)  – Provided for organizations where we deploy VPN services.
 
