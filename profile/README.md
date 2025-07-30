@@ -18,6 +18,8 @@
 
 * [StickTock](https://sticktock.com) – Watch, Download &amp; Share TikTok Videos Safely. [Source](https://github.com/PrivacySafe/sticktock)
 
+* [RefreshView Browser](https://refreshview.com) – Your Internet Refreshed, Minimal &amp; With No Ads. [Source](https://github.com/PrivacySafe/refreshview-browser)
+
 ## Documentation
 
 * [Enterprise Suite User Guides](https://github.com/PrivacySafe/privacysafe-userguides) – Provided for the apps we ship for enterprise users (Chat, Contacts, Inbox, Storage, App Store).
