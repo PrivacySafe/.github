@@ -13,7 +13,11 @@
 * **PrivacySafe Storage:** Secure Shared Drive
 * **PrivacySafe App Store:** Download & Update PrivacySafe Apps
 
-[PrivacySafe](https://privacysafe.app) is building a suite of privacy by design solutions for home and business.
+[PrivacySafe](https://privacysafe.app) is building a suite of privacy by design solutions for home and business. You can download these for:
+
+* [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))
+* [Mac OS](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))
+* [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
 
 ## Free Web Apps
 
