@@ -13,7 +13,9 @@
 
 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))  
 🍏 [Mac OS](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))  
-🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))  
+🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
+
+[Sign Up](https://privacysafe.app) for our @privacysafe.me services, run your own services using [our code](https://github.com/PrivacySafe/spec-server), or [contact us](https://privacysafe.app) to set them up for you.
 
 ## 💼 Enterprise Suite  
 [PrivacySafe Enterprise Suite](https://download.privacysafe.app) is a powerful collection of secure, privacy-first productivity apps:  
