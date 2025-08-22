@@ -24,7 +24,7 @@
 * **PrivacySafe Chat:** E2EE Video & Text Communication [Source](https://github.com/PrivacySafe/chat.app.privacysafe.io)  
 * **PrivacySafe Inbox:** Encrypted Replacement for Email [Source](https://github.com/PrivacySafe/inbox.app.privacysafe.io)  
 * **PrivacySafe Storage:** Secure Shared Drive [Source](https://github.com/PrivacySafe/files.app.privacysafe.io)  
-* **PrivacySafe App Store:** Download & Update PrivacySafe Apps [Source]([https://github.com/PrivacySafe/startup.app.privacysafe.io](https://github.com/PrivacySafe/launcher.app.privacysafe.io))  
+* **PrivacySafe App Store:** Download & Update PrivacySafe Apps [Source](https://github.com/PrivacySafe/launcher.app.privacysafe.io)
 
 ⚙️ Our design is purposefully modular and portable (in fact, you can run our apps as [portable apps](https://download.privacysafe.app/nightly/portable/) off a USB key if you want). We publish 100% of our client and server code. 
 
