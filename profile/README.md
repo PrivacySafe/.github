@@ -30,10 +30,10 @@
 
 Other client-side pieces:  
 * **PrivacySafe Startup:** Start the Enterprise Suite and Sign Up [Source](https://github.com/PrivacySafe/startup.app.privacysafe.io)  
-* 3NWeb Client Library [Source](https://github.com/PrivacySafe/3n-client-lib)  
+* 3NWeb Client Library: YES we publish our libraries! Use in your own apps. [Source](https://github.com/PrivacySafe/3n-client-lib)  
 
 Server-side:  
-* 3NWeb Spec Server [Source](https://github.com/PrivacySafe/spec-server)  
+* 3NWeb Spec Server: YES we publish the code for our server! Run on your own machine. [Source](https://github.com/PrivacySafe/spec-server)  
 
 ---
 
