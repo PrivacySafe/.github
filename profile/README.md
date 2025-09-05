@@ -77,4 +77,4 @@ Contributions are welcome! Please fork, remix, and create pull requests. Happy H
 ---
 
 ## ⚖️ License  
-© 2019—present Ivy Cyber LLC. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark. Please see individual project repositories for licensing information.  
+© 2019—present <a href="https://ivycyber.com" target="_blank">Ivy Cyber LLC</a>. This project is dedicated to ethical <a href="https://fsf.org" target="_blank" rel="noreferrer noopener">Free and Open Source Software</a> and <a href="https://oshwa.org" target="_blank" rel="noreferrer noopener">Open Source Hardware</a>. PrivacySafe® is a registered trademark. Please see individual project repositories for licensing information.  
