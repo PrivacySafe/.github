@@ -18,7 +18,7 @@
 [Sign Up](https://privacysafe.app) for our @privacysafe.me services, run your own services using [our code](https://github.com/PrivacySafe/spec-server), or [contact us](https://privacysafe.app) to set them up for you.
 
 ## 💼 Enterprise Suite  
-[PrivacySafe Enterprise Suite](https://download.privacysafe.app) is a powerful collection of secure, privacy-first productivity apps:  
+[PrivacySafe Enterprise Suite](https://download.privacysafe.app/nightly/) is a powerful collection of secure, privacy-first productivity apps:  
 
 * **PrivacySafe Contacts:** Private Address Book [Source](https://github.com/PrivacySafe/contacts.app.privacysafe.io)  
 * **PrivacySafe Chat:** E2EE Video & Text Communication [Source](https://github.com/PrivacySafe/chat.app.privacysafe.io)  
