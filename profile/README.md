@@ -7,15 +7,27 @@
 👉 Sign Up: <a href="https://privacysafe.app">PrivacySafe.app</a>
 </h2>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1194HN7) [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/PrivacySafe/donate)
+<p align="center">
+  <a href="https://download.privacysafe.app/nightly/windows/" target="_blank">
+  <img src="../assets/windows-badge.svg" alt="Get it on Windows" width="160">
+  </a>
+  <a href="https://download.privacysafe.app/nightly/mac/" target="_blank">
+  <img src="../assets/macos-badge.svg" alt="Get it on macOS" width="160">
+  </a>
+  <a href="https://download.privacysafe.app/nightly/linux/" target="_blank">
+  <img src="../assets/linux-badge.svg" alt="Get it on Linux" width="160">
+  </a>
+</p>
 
-[PrivacySafe](https://privacysafe.app) is building a suite of privacy by design solutions for home and business. You can download these for:  
+[PrivacySafe](https://privacysafe.app) is building a suite of privacy by design solutions for home and business. Install it on: 
 
 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))  
 🍏 [Mac OS](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))  
 🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
 
 [Sign Up](https://privacysafe.app) for our @privacysafe.me services, run your own services using [our code](https://github.com/PrivacySafe/spec-server), or [contact us](https://privacysafe.app) to set them up for you.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1194HN7) [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/PrivacySafe/donate)
 
 ## 💼 Enterprise Suite  
 [PrivacySafe Enterprise Suite](https://download.privacysafe.app/nightly/) is a powerful collection of secure, privacy-first productivity apps:  
