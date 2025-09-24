@@ -19,7 +19,7 @@
   </a>
 </p>
 
-[PrivacySafe](https://privacysafe.app) is building a suite of privacy by design solutions for home and business. Install it on: 
+The [Ivy Cyber](https://ivycyber.com/about) team is building the [PrivacySafe](https://privacysafe.app) suite of privacy by design solutions for home and business. Install it on: 
 
 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))  
 🍏 [Mac OS](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))  
