@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://privacysafe.app"><img src="https://avatars.githubusercontent.com/u/55242566" width="200" height="200" /></a>
 </p>
-<h1 align="center">PrivacySafe: Speak, Share &amp; Work Safely.</h1>
+<h1 align="center">Defend Your Digital Realm</h1>
 
 <h2 align="center">
-👉 Sign Up: <a href="https://privacysafe.app">PrivacySafe.app</a>
+Replace vulnerable cloud services with encrypted apps you can rely on. Designed for secure travel and private communication. Get PrivacySafe 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
 </h2>
 
 <p align="center">
