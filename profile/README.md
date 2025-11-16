@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://privacysafe.app"><img src="https://avatars.githubusercontent.com/u/55242566" width="200" height="200" /></a>
+  <a href="https://privacysafe.app"><img src="privacysafe_header_600.png" width="600" /></a>
 </p>
 <h1 align="center">Defend Your Digital Realm</h1>
 
 <h2 align="center">
-Replace vulnerable cloud services with encrypted apps you can rely on. Designed for secure travel and private communication. Get PrivacySafe 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
+Replace vulnerable cloud services with encrypted apps you can rely on. Get PrivacySafe 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
 </h2>
 
 <p align="center">
@@ -27,8 +27,6 @@ The [Ivy Cyber](https://ivycyber.com/about) team is building the [PrivacySafe](h
 
 [Sign Up](https://privacysafe.app) for our @privacysafe.me services, run your own services using [our code](https://github.com/PrivacySafe/spec-server), or [contact us](https://privacysafe.app) to set them up for you.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1194HN7) [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/PrivacySafe/donate)
-
 ## 💼 Enterprise Suite  
 [PrivacySafe Enterprise Suite](https://download.privacysafe.app/nightly/) is a powerful collection of secure, privacy-first productivity apps:  
 
@@ -46,6 +44,8 @@ Other client-side pieces:
 
 Server-side:  
 * 3NWeb Spec Server: YES we publish the code for our server! Run on your own machine. [Source](https://github.com/PrivacySafe/spec-server)  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1194HN7) [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/PrivacySafe/donate)
 
 ---
 
