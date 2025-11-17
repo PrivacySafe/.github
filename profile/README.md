@@ -74,7 +74,8 @@ Additionally, we are developing a browser and operating system for our PrivacySa
 * [PrivacySafe VPN User Guide](https://github.com/PrivacySafe/privacysafe-userguides/blob/main/privacysafe-vpn-setup.md): Provided for organizations where we deploy VPN services.  
 * [Protocols at IEEE](https://opensource.ieee.org/3nweb): Our protocols are hosted by IEEE SA Open. Our security benefits from testing and auditing by global experts.  
 * [Architecture Overview](https://github.com/PrivacySafe/3NWeb-architecture): PrivacySafe is built for the 3NWeb architecture, protocols, and formats. This mirrors a [repo at IEEE](https://opensource.ieee.org/3nweb/architecture).  
-* [PrivacySafe Social Features](https://github.com/PrivacySafe/privacysafe-social-ui): Differentiators for PrivacySafe Social node on decentralized Mastodon network.  
+* [PrivacySafe Social Features](https://github.com/PrivacySafe/privacysafe-social-ui): Differentiators for PrivacySafe Social node on decentralized Mastodon network.
+* [PrivacySafe Identity](https://github.com/PrivacySafe/privacysafe-identity): Graphics, logos, fonts, and branding.  
 
 ---
 
