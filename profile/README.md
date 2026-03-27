@@ -84,7 +84,8 @@ Contributions are welcome! Please fork, remix, and create pull requests. Happy H
 
 ⚠️ Never send sensitive info about you or other users via direct message or email.  
 
-* **Bugs & Security Issues:** See [SECURITY.md](https://github.com/PrivacySafe/privacysafe-link/blob/main/SECURITY.md) for more information.  
+* **Bugs & Security Issues:** See [SECURITY.md](https://github.com/PrivacySafe/privacysafe-link/blob/main/SECURITY.md) for more information.
+* **AI Contribution Policy:** See [AI_POLICY.md](https://github.com/PrivacySafe/privacysafe-link/blob/main/AI_POLICY.md) before submitting a PR.
 * **Report Abuse:** Email <a href="mailto:abuse@privacysafe.net" target="_blank">abuse@privacysafe.net</a> (<a href="https://psafe.ly/xSpQhF" target="_blank">PGP</a>)  
 
 ---
