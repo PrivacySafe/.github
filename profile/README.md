@@ -24,7 +24,7 @@ The [Ivy Cyber](https://ivycyber.com/about) team builds [PrivacySafe](https://pr
 * 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))
 * 🍏 [Mac OS](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))
 * 🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
-* 🤖 [TESTING for Android](https://3nsoft.com/downloads/whitepapers/demo/privacysafe.apk) ([Source](https://github.com/PrivacySafe/privacysafe-platform-android-bundle))
+* 🤖 [TESTING for Android](https://download.privacysafe.app/bundles-for-android/0.21.0%2B2/PrivacySafe.apk) ([checksum](https://github.com/PrivacySafe/privacysafe-platform-android-bundle)](https://download.privacysafe.app/bundles-for-android/0.21.0%2B2/checksums.json)
 
 [Sign up FREE](https://privacysafe.app) at `@privacysafe.xyz`, go Gold PRO at `@privacysafe.me`, or Platinum VIP at `@privacysafe.gg`. Techies can use their own domain and run [our server code](https://github.com/PrivacySafe/spec-server). [Ivy Cyber](https://ivycyber.com) can set it all up for your organization's own domain.
 
