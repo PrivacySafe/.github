@@ -76,20 +76,20 @@ Donations to the Foundation support education, research, documentation, and publ
 
 ## 📚 Documentation
 
-* [User Guides](https://github.com/PrivacySafe/privacysafe-userguides): For the apps we ship (Chat, Contacts, Inbox, Storage, App Store).
+* [User Guides](https://github.com/PrivacySafe/privacysafe-userguides): For the apps we ship (Chat, Contacts, Treasure, Inbox, Storage, App Store).
 * [PrivacySafe VPN User Guide](https://github.com/PrivacySafe/privacysafe-userguides/blob/main/privacysafe-vpn-setup.md): For organizations where we deploy VPN services.
 * [Architecture Overview](https://github.com/PrivacySafe/3NWeb-architecture): PrivacySafe is built on the 3NWeb architecture, protocols, and formats. Mirrors a [repo at IEEE](https://opensource.ieee.org/3nweb/architecture).
-* [PrivacySafe Social Features](https://github.com/PrivacySafe/privacysafe-social-ui): What makes our node different on the decentralized Mastodon network.
+* [PrivacySafe Social Features](https://github.com/PrivacySafe/privacysafe-social-ui): What differentiates our [PrivacySafe Social](https://privacysafe.social) instance on the decentralized Mastodon network.
 * [PrivacySafe Identity](https://github.com/PrivacySafe/privacysafe-identity): Graphics, logos, fonts, and branding.
 
 ## 🗄️ Earlier Projects
 
 We keep our history public. These projects are online and their source stays available, but they are not part of the current PrivacySafe apps:
 
-* [PrivacySafe Link](https://privacysafe.link): Secret notes that self-destruct after reading. [Archives](https://github.com/PrivacySafe/privacysafe-link)
 * [PrivacySafe Locker](https://privacysafe.locker): Share private files & memos. [Source](https://github.com/PrivacySafe/privacysafe-locker)
-* [StickTock](https://sticktock.com): Watch, download & share TikTok videos safely. [Archives](https://github.com/PrivacySafe/sticktock)
-* [RefreshView Browser](https://refreshview.com): Your internet refreshed, minimal & with no ads. [Archives](https://github.com/PrivacySafe/refreshview-browser)
+* **PrivacySafe Link:** Secret notes that self-destruct after reading. [Archives](https://github.com/PrivacySafe/privacysafe-link)
+* **StickTock:** Watch, download & share TikTok videos safely. [Archives](https://github.com/PrivacySafe/sticktock)
+* **RefreshView Browser:** Your internet refreshed, minimal & with no ads. [Archives](https://github.com/PrivacySafe/refreshview-browser)
 * **CertMagi.cc:** Magic Certificates – documents and web pages stored on verified blockchain infrastructure. CertMagi.cc harnesses the power of IPFS, ENS, and the Tor Dark Web to ensure resistance to censorship, while still being easy to update or remove – something most blockchain solutions can't do. [Archives](https://github.com/PrivacySafe/certmagicc)
 
 ## 🤝 Contributing
