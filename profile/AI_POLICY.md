@@ -153,7 +153,7 @@ These decisions are made to protect project security, copyright and licensing in
 
 ## 9. Acknowledgement
 
-This policy was informed by public contribution policies and discussions from projects including Mastodon, CloudNativePG, Ghostty, and the Linux Foundation. The name **Linux Foundation** is a proper organizational name and is not a reference to the GNU/Linux operating system.
+This policy was informed by public contribution policies and discussions from projects including Mastodon, CloudNativePG, Ghostty, and the Linux Foundation.
 
 ## 10. License
 
