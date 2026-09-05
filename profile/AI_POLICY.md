@@ -10,7 +10,7 @@ Examples include ChatGPT, GitHub Copilot, Claude, Gemini, Grok, and similar tool
 
 ## 1. Purpose and principles
 
-PrivacySafe and 3NWeb are privacy-first, open-standards-driven projects built around transparency, security, software freedom, and user autonomy. Contributions must preserve:
+PrivacySafe and 3NWeb are privacy-first, public standards-driven projects built around transparency, security, software freedom, and user autonomy. Contributions must preserve:
 
 - human accountability;
 - verifiable, auditable, and secure code;
