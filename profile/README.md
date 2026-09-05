@@ -22,31 +22,29 @@ Sign up free, no phone number required 👉 <a href="https://privacysafe.app">Pr
   </a>
 </p>
 
-PrivacySafe is privacy-by-design software for home, teams, and organizations. [PrivacySafe Foundation](https://privacysafe.foundation) supports the free software, open standards, education, documentation, and public-interest work around the PrivacySafe ecosystem. [Ivy Cyber](https://ivycyber.com) publishes commercial PrivacySafe offerings and provides hosting, infrastructure, deployment, technical support, and security operations for PrivacySafe services.
+PrivacySafe is privacy-by-design software for home, teams, and organizations. [PrivacySafe Foundation](https://privacysafe.foundation) 501(c)(3) supports software development, public standards, education, documentation, and public-interest work around the PrivacySafe ecosystem. [Ivy Cyber](https://ivycyber.com) publishes commercial PrivacySafe offerings and provides hosting, infrastructure, deployment, technical support, and security operations for PrivacySafe services.
 
 Install PrivacySafe on:
 
 * 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))
 * 🍏 [macOS](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))
 * 🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
-* 🤖 [Android testing builds](https://download.privacysafe.app/nightly-android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
+* 🤖 [Android testing](https://download.privacysafe.app/nightly-android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
 
-[Sign up free](https://privacysafe.app) at `@privacysafe.xyz`, choose Gold at `@privacysafe.me`, or Platinum at `@privacysafe.gg`. Organizations can use their own domain and deploy the [server code](https://github.com/PrivacySafe/spec-server). [Ivy Cyber](https://ivycyber.com) provides deployment, hosting, infrastructure, and technical support for organizations that want help running PrivacySafe.
+[Sign up free](https://privacysafe.app) at `@privacysafe.xyz`, choose Gold at `@privacysafe.me`, or Platinum at `@privacysafe.gg`. Organizations can use their own domain and deploy the [server code](https://github.com/PrivacySafe/spec-server).
 
 ## 🔐 PrivacySafe: Your Secure Zone
 
 A secure zone that you control. PrivacySafe is built from Free/Libre and Open Source Software (FLOSS) and uses a modular architecture designed around user-held keys and verifiable software:
 
 * **PrivacySafe Contacts:** Private address book. [Source](https://github.com/PrivacySafe/contacts.app.privacysafe.io)
-* **PrivacySafe Chat:** Encrypted text, voice, and video. [Source](https://github.com/PrivacySafe/chat.app.privacysafe.io)
-* **PrivacySafe Treasure:** A private vault for passwords, recovery phrases, payment cards, passports, and other sensitive records. [Source](https://github.com/PrivacySafe/treasure.app.privacysafe.io)
+* **PrivacySafe Chat:** E2EE text, voice, and video. [Source](https://github.com/PrivacySafe/chat.app.privacysafe.io)
+* **PrivacySafe Treasure:** A vault for passwords, recovery phrases, payment cards, and sensitive records. [Source](https://github.com/PrivacySafe/treasure.app.privacysafe.io)
 * **PrivacySafe Storage:** Encrypted files and shared folders. [Source](https://github.com/PrivacySafe/files.app.privacysafe.io)
-* **PrivacySafe Inbox:** Encrypted messaging designed to reduce phishing and ransomware exposure while still supporting communication outside PrivacySafe. [Source](https://github.com/PrivacySafe/inbox.app.privacysafe.io)
-* **PrivacySafe App Store:** Software distribution for the PrivacySafe environment. [Source](https://github.com/PrivacySafe/launcher.app.privacysafe.io)
+* **PrivacySafe Inbox:** Replacement for email designed to reduce phishing and ransomware. [Source](https://github.com/PrivacySafe/inbox.app.privacysafe.io)
+* **PrivacySafe App Store:** Secure software supply chain for the PrivacySafe environment. [Source](https://github.com/PrivacySafe/launcher.app.privacysafe.io)
 
-PrivacySafe is modular and portable. Portable builds can run from removable media, and we publish our client and server source code.
-
-🏅 [Protocols at IEEE](https://opensource.ieee.org/3nweb): 3NWeb protocol work is hosted at IEEE SA Open.
+PrivacySafe is modular and portable. Portable builds can run from removable media, and we publish 100% of our client and server source code.
 
 Other client-side pieces:
 
@@ -55,26 +53,23 @@ Other client-side pieces:
 
 Server-side:
 
+* **[Protocols at IEEE](https://opensource.ieee.org/3nweb):** 3NWeb protocol documentation is hosted at IEEE SA Open.
 * **3NWeb Spec Server:** Reference server implementation. [Source](https://github.com/PrivacySafe/spec-server)
 
 ## 🌐 Free Public Services
 
-PrivacySafe Foundation supports public-interest services that can be used without purchasing an Ivy Cyber product:
-
-* [PrivacySafe Social](https://privacysafe.social): Decentralized Mastodon community without advertising or algorithmic timeline manipulation. [Source](https://github.com/PrivacySafe/privacysafe-social-ui)
+* [PrivacySafe Social](https://privacysafe.social): Social community without advertising or algorithmic timeline manipulation. [Source](https://github.com/PrivacySafe/privacysafe-social-ui)
 * [PrivacySafe Search](https://privacysafe.is): Privacy-respecting web search.
 * [PrivacySafe Bot](https://privacysafe.bot): Password and passphrase generator. [Source](https://github.com/PrivacySafe/privacysafe-bot)
 * [PrivacySafe Locker](https://privacysafe.locker): Share private files and memos. [Source](https://github.com/PrivacySafe/privacysafe-locker)
 
 ## 🏛️ PrivacySafe Foundation
 
-[PrivacySafe Foundation, Inc.](https://privacysafe.foundation) is a 501(c)(3) nonprofit public charity supporting free software, cybersecurity education, decentralized technology, documentation, open standards, and public-interest research.
-
-Donations to the Foundation support charitable programs, education, research, documentation, and public code. Purchases from Ivy Cyber support commercial PrivacySafe products, hosting, infrastructure, deployment, and technical support.
+[PrivacySafe Foundation](https://privacysafe.foundation) is a 501(c)(3) nonprofit public charity supporting free software, cybersecurity education, decentralized technology, documentation, and public-interest research.
 
 ### Support the Foundation
 
-* [Donate directly through PrivacySafe Foundation](https://privacysafe.foundation)
+* [Donate directly to the Foundation](https://privacysafe.foundation)
 * [Open Collective](https://opencollective.com/privacysafe)
 * [Ko-fi](https://ko-fi.com/R6R1194HN7)
 * [Liberapay](https://liberapay.com/PrivacySafe/donate)
@@ -91,22 +86,20 @@ The Foundation website also provides options for card donations, PayPal/Venmo, c
 
 ## 📚 Documentation
 
+* [Architecture Overview](https://github.com/PrivacySafe/3NWeb-architecture): PrivacySafe is built on 3NWeb architecture, protocols, and formats. Also mirrored at [IEEE SA Open](https://opensource.ieee.org/3nweb/architecture).
 * [User Guides](https://github.com/PrivacySafe/privacysafe-userguides): Guides for PrivacySafe applications.
 * [PrivacySafe VPN User Guide](https://github.com/PrivacySafe/privacysafe-userguides/blob/main/privacysafe-vpn-setup.md): For organizations where Ivy Cyber deploys VPN services.
-* [Architecture Overview](https://github.com/PrivacySafe/3NWeb-architecture): PrivacySafe is built on 3NWeb architecture, protocols, and formats. Also mirrored at [IEEE SA Open](https://opensource.ieee.org/3nweb/architecture).
 * [PrivacySafe Social Features](https://github.com/PrivacySafe/privacysafe-social-ui): Features of the PrivacySafe Social Mastodon service.
 * [PrivacySafe Identity](https://github.com/PrivacySafe/privacysafe-identity): Graphics, logos, fonts, and branding.
 
-## 🗄️ Earlier Projects
+## 🗄️ Past Projects
 
-We keep our history public. These projects and their source remain available, but they are not part of the current PrivacySafe application and public-service lineup:
+We keep our history public. These projects and their source remain available, but they are not part of the current PrivacySafe software or public services:
 
 * **PrivacySafe Link:** Secret notes that self-destruct after reading. [Archives](https://github.com/PrivacySafe/privacysafe-link)
 * **StickTock:** Watch, download, and share TikTok videos through a privacy-oriented interface. [Archives](https://github.com/PrivacySafe/sticktock)
 * **RefreshView Browser:** A minimal browser project focused on a cleaner web experience. [Archives](https://github.com/PrivacySafe/refreshview-browser)
 * **CertMagi.cc:** Experimental verified-document publishing using distributed and censorship-resistant infrastructure. [Archives](https://github.com/PrivacySafe/certmagicc)
-
-These repositories are retained as part of the history of PrivacySafe and the organizations and contributors that developed the work. Archived projects should not be interpreted as current services or actively supported products.
 
 ## 🤝 Contributing
 
@@ -120,7 +113,7 @@ Contributions are welcome. Please fork, remix, and submit focused pull requests.
 
 ## 📰 Newsletter
 
-**Bits On Tape** is our newsletter covering cybersecurity, privacy, FLOSS, AI, and digital culture.
+🤖 **[Bits On Tape](https://bitsontape.com)** is our newsletter covering cybersecurity, privacy, FLOSS, AI, and digital culture. [Subscribe Now](https://bitsontape.com)
 
 ## ⚖️ License
 
