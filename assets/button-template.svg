@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.73333mm"
+   height="12.700001mm"
+   viewBox="0 0 67.73333 12.700001"
+   version="1.1"
+   id="svg435"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="button-template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview437"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.1373683"
+     inkscape:cx="149.85371"
+     inkscape:cy="59.578936"
+     inkscape:window-width="1920"
+     inkscape:window-height="990"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs432" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.832008,-102.45245)">
+    <rect
+       x="44.096592"
+       y="102.71703"
+       width="67.204163"
+       height="12.170834"
+       rx="6.0854168"
+       fill="none"
+       stroke="#fb521f"
+       stroke-width="0.529167"
+       id="rect76" />
+    <path
+       d="m 65.855904,109.0319 c 0,-1.03744 0.852183,-1.55616 0.889234,-1.59321 -0.481668,-0.70397 -1.259749,-0.81513 -1.519109,-0.81513 -0.666925,-0.0741 -1.259748,0.37052 -1.593211,0.37052 -0.333463,0 -0.852183,-0.37052 -1.407955,-0.37052 -0.703976,0 -1.370902,0.40757 -1.741416,1.03744 -0.741029,1.2968 -0.185258,3.22348 0.518719,4.26092 0.333463,0.51872 0.741029,1.07449 1.2968,1.03744 0.518721,-0.037 0.703978,-0.33347 1.333852,-0.33347 0.629875,0 0.815131,0.33347 1.370903,0.33347 0.555771,0 0.926286,-0.51872 1.259749,-1.00039 0.407565,-0.59283 0.592822,-1.18565 0.592822,-1.2227 -0.03705,0 -1.000388,-0.37051 -1.000388,-1.70437 z m -1.074492,-3.07526 c 0.296412,-0.37052 0.481669,-0.85219 0.444617,-1.33386 -0.444617,0.0371 -0.963336,0.29642 -1.259748,0.66693 -0.25936,0.29641 -0.51872,0.81513 -0.444617,1.2968 0.481668,0.0371 0.963337,-0.25936 1.259748,-0.62987 z"
+       id="path78"
+       style="fill:#faf9f5;stroke-width:0.220486" />
+    <text
+       x="69.683624"
+       y="109.33876"
+       dominant-baseline="middle"
+       font-family="'Stack Sans Text', Inter, 'Liberation Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+       font-size="7.11388px"
+       font-weight="500"
+       id="text82"
+       style="fill:#faf9f5;stroke-width:0.264583"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Stack Sans Text';-inkscape-font-specification:'Stack Sans Text'"
+         id="tspan489">Mac OS</tspan></text>
+  </g>
+</svg>
