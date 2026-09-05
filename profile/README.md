@@ -9,16 +9,16 @@ PrivacySafe gives you encrypted chat and video calls inside a secure zone for yo
 
 <p align="center">
   <a href="https://download.privacysafe.app/nightly/windows/" target="_blank">
-  <img src="../assets/windows-badge.svg" alt="Get it on Windows" width="160">
+  <img src="../assets/downloads-windows.svg" alt="Get it on Windows" width="160">
   </a>
   <a href="https://download.privacysafe.app/nightly/mac/" target="_blank">
-  <img src="../assets/macos-badge.svg" alt="Get it on macOS" width="160">
+  <img src="../assets/downloads-macos.svg" alt="Get it on macOS" width="160">
   </a>
   <a href="https://download.privacysafe.app/nightly/linux/" target="_blank">
-  <img src="../assets/linux-badge.svg" alt="Get it on GNU/Linux" width="160">
+  <img src="../assets/download-gnulinux.svg" alt="Get it on GNU/Linux" width="160">
   </a>
   <a href="https://download.privacysafe.app/nightly-android" target="_blank">
-  <img src="../assets/android-badge.svg" alt="Get it on Android" width="160">
+  <img src="../assets/download-android.svg" alt="Get it on Android" width="160">
   </a>
 </p>
 
