@@ -4,7 +4,7 @@
 <h1 align="center">Your Private Life, Locked In</h1>
 
 <h2 align="center">
-PrivacySafe gives you encrypted chat and video calls inside a secure zone for your treasure: passwords, passports, and other sensitive data. Sign up free, no phone number required 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
+Sign up free, no phone number required 👉 <a href="https://privacysafe.app">PrivacySafe.app</a>
 </h2>
 
 <p align="center">
