@@ -22,7 +22,7 @@ Sign up free, no phone number required 👉 <a href="https://privacysafe.app">Pr
   </a>
 </p>
 
-PrivacySafe is privacy-by-design software for home, teams, and organizations. Our source code is also published at [codeberg.org/PrivacySafe](https://codeberg.org/PrivacySafe)
+PrivacySafe is privacy-by-design software for home, teams, and organizations.
 
 Install PrivacySafe on:
 
@@ -44,7 +44,8 @@ A secure zone that you control. PrivacySafe is built from Free/Libre and Open So
 * **PrivacySafe Inbox:** Replacement for email designed to reduce phishing and ransomware. [Source](https://github.com/PrivacySafe/inbox.app.privacysafe.io)
 * **PrivacySafe App Store:** Secure software supply chain for the PrivacySafe environment. [Source](https://github.com/PrivacySafe/launcher.app.privacysafe.io)
 
-PrivacySafe is modular and portable. Portable builds can run from removable media, and we publish 100% of our client and server source code.
+PrivacySafe is modular and portable. Portable builds can run from removable media, and we publish 100% of our client and server source code which is also published at [codeberg.org/PrivacySafe](https://codeberg.org/PrivacySafe)
+
 
 Other client-side pieces:
 
