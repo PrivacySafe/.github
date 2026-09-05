@@ -26,7 +26,7 @@ This policy applies to current PrivacySafe source repositories and public-facing
 - `privacysafe.bot`
 - `privacysafe.locker`
 - `psafe.ly`
-- current PrivacySafe repositories at [github.com/PrivacySafe](https://github.com/PrivacySafe) and [gitlab.com/privacysafe](https://gitlab.com/privacysafe)
+- current PrivacySafe repositories at [github.com/PrivacySafe](https://github.com/PrivacySafe) and [codeberg.org/PrivacySafe](https://codeberg.org/PrivacySafe)
 - other systems explicitly identified as in scope by a repository, service, or published security notice
 
 ### Out of scope
