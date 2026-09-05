@@ -22,7 +22,7 @@ Sign up free, no phone number required 👉 <a href="https://privacysafe.app">Pr
   </a>
 </p>
 
-PrivacySafe is privacy-by-design software for home, teams, and organizations. [PrivacySafe Foundation](https://privacysafe.foundation) 501(c)(3) supports software development, public standards, education, documentation, and public-interest work around the PrivacySafe ecosystem. [Ivy Cyber](https://ivycyber.com) publishes commercial PrivacySafe offerings and provides hosting, infrastructure, deployment, technical support, and security operations for PrivacySafe services.
+PrivacySafe is privacy-by-design software for home, teams, and organizations. Our source code is also published at [codeberg.org/PrivacySafe](https://codeberg.org/PrivacySafe)
 
 Install PrivacySafe on:
 
