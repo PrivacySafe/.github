@@ -15,7 +15,10 @@ PrivacySafe gives you encrypted chat and video calls inside a secure zone for yo
   <img src="../assets/macos-badge.svg" alt="Get it on macOS" width="160">
   </a>
   <a href="https://download.privacysafe.app/nightly/linux/" target="_blank">
-  <img src="../assets/linux-badge.svg" alt="Get it on Linux" width="160">
+  <img src="../assets/linux-badge.svg" alt="Get it on GNU/Linux" width="160">
+  </a>
+  <a href="https://download.privacysafe.app/nightly-android" target="_blank">
+  <img src="../assets/android-badge.svg" alt="Get it on Android" width="160">
   </a>
 </p>
 
