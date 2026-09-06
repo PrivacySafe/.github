@@ -221,3 +221,6 @@ Commonplace issues that are not security vulnerabilities may still be reported t
 ## <a name="acknowledgements">Acknowledgements</a>
 
 Researchers who responsibly disclose valid findings may be listed on our [Security Acknowledgements](https://privacysafe.app/security-thanks) page with their permission.
+
+---
+This document is released under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
