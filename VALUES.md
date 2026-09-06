@@ -62,13 +62,13 @@ Strong privacy and cybersecurity should not depend on whether someone can afford
 
 We support cybersecurity education, documentation, public-interest research, accessible learning, and practical resources that help people understand and control their digital lives.
 
-## 9. Public-interest and commercial work can coexist without compromising the mission
+## 9. Permissionless innovation must endure
 
-PrivacySafe and 3NWeb include public-interest, nonprofit, community, and commercial activity.
+PrivacySafe and 3NWeb are built to ensure that the next generation can create, experiment, communicate, and build without needing permission from centralized gatekeepers.
 
-Public-interest work may be funded by donations to the PrivacySafe Foundation 501(c)(3) nonprofit public charity. Ivy Cyber publishes and supports commercial PrivacySafe offerings. 3NSoft contributes development, documentation, hosting, and infrastructure.
+That work spans public-interest, nonprofit, community, and commercial activity. The PrivacySafe Foundation supports charitable public-interest work, Ivy Cyber publishes and supports commercial PrivacySafe offerings, and 3NSoft contributes development, documentation, hosting, and infrastructure.
 
-Different organizations may have different operational roles, but commercial sustainability, fundraising, hosting, or organizational structure should not override the core commitments to privacy, security, software freedom, user autonomy, and transparent technical practice.
+Different organizations can play different roles, but the technology and governance must continue to protect privacy, security, software freedom, user autonomy, and the conditions for permissionless innovation.
 
 ## 10. Building a better web requires collaboration
 
