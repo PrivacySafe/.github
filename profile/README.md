@@ -80,7 +80,7 @@ Server-side:
 
 ## 🏛️ PrivacySafe Foundation
 
-[PrivacySafe Foundation](https://privacysafe.foundation) is a 501(c)(3) nonprofit public charity supporting Free/Libre and Open Source Software (FLOSS), cybersecurity education, decentralized technology, documentation, standards work, and public-interest privacy and security research.
+[PrivacySafe Foundation](https://privacysafe.foundation) is a 501(c)(3) nonprofit public charity supporting Free/Libre and Open Source Software (FLOSS), cybersecurity education, decentralized technology, documentation, standards work, and public-interest privacy and security research. The Foundation contributes development work and documentation to PrivacySafe and 3NWeb.
 
 ### Support the Foundation
 
@@ -101,19 +101,19 @@ The Foundation website provides options for card donations, PayPal/Venmo, crypto
 
 ## 💎 3NSoft
 
-[3NSoft, Inc.](https://3nsoft.com) contributes development work to 3NWeb and PrivacySafe and provides support and infrastructure. 3NSoft hosts PrivacySafe identities at `privacysafe.xyz`, `privacysafe.me`, and `privacysafe.gg`, as well as download mirrors at [download.privacysafe.app](https://download.privacysafe.app). PrivacySafe software can also be self-hosted on infrastructure controlled by users and organizations.
+[3NSoft, Inc.](https://3nsoft.com) contributes development work and documentation to 3NWeb and PrivacySafe. 3NSoft provides support and infrastructure, hosting PrivacySafe identities at `privacysafe.xyz`, `privacysafe.me`, and `privacysafe.gg`, as well as download mirrors at [download.privacysafe.app](https://download.privacysafe.app). PrivacySafe software can also be self-hosted on infrastructure controlled by users and organizations.
 
 ## 📚 Documentation
 
 * [Architecture Overview](https://github.com/PrivacySafe/3NWeb-architecture): PrivacySafe is built on 3NWeb architecture, protocols, and formats. Also published at [IEEE SA Open](https://opensource.ieee.org/3nweb/architecture).
 * [Server-Client Protocols](https://opensource.ieee.org/3nweb/server-client-protocols): MailerId, 3NStorage, and ASMail protocol documentation.
-* [XSP File Format](https://opensource.ieee.org/3nweb/xsp-format): Documentation for the XSP encrypted-file format.
+* [XSP File Format](https://opensource.ieee.org/3nweb/xsp-format): Documentation for the XSP encrypted file format.
 * [User Guides](https://github.com/PrivacySafe/privacysafe-userguides): Guides for PrivacySafe applications.
 * [PrivacySafe VPN User Guide](https://github.com/PrivacySafe/privacysafe-userguides/blob/main/privacysafe-vpn-setup.md): For organizations where Ivy Cyber deploys VPN services.
-* [PrivacySafe Social Features](https://github.com/PrivacySafe/privacysafe-social-ui): Features of the PrivacySafe Social Mastodon service.
+* [PrivacySafe Social Features](https://github.com/PrivacySafe/privacysafe-social-ui): Features of the PrivacySafe Social Mastodon instance.
 * [PrivacySafe Identity](https://github.com/PrivacySafe/privacysafe-identity): Graphics, logos, fonts, and branding.
 
-3NWeb architecture, protocol, format, and PrivacySafe user-guide documentation is licensed under the Apache License 2.0 and is contributed through [IEEE SA Open](https://opensource.ieee.org/3nweb) under the [IEEE SA Open CLA](https://opensource.ieee.org/community/cla/apache).
+3NWeb architecture, protocol, and file format documentation as well as PrivacySafe guides are licensed under the Apache License 2.0 and is contributed through [IEEE SA Open](https://opensource.ieee.org/3nweb) under the [IEEE SA Open CLA](https://opensource.ieee.org/community/cla/apache).
 
 ## 🗄️ Past Projects
 
@@ -146,6 +146,6 @@ Contributions are welcome. Please fork, remix, and submit focused pull requests.
 
 Unless otherwise noted, original PrivacySafe and 3NWeb software is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.html" rel="nofollow">GNU Affero General Public License version 3 or later</a> (`AGPL-3.0-or-later`). Documentation is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0" rel="nofollow">Apache License 2.0</a> (`Apache-2.0`) and, where published through IEEE SA Open, is contributed under the <a href="https://opensource.ieee.org/community/cla/apache" rel="nofollow">IEEE SA Open CLA</a>.
 
-PrivacySafe® and 3NWeb® are registered trademarks. PrivacySafe Foundation™ and Ivy Cyber™ are pending trademarks. Software licenses do not grant trademark rights.
+PrivacySafe® and 3NWeb® are registered trademarks. PrivacySafe Foundation™ and Ivy Cyber™ are pending trademarks. Other product, service, technology, and organization names, logos, and marks used in connection with PrivacySafe, 3NWeb, PrivacySafe Foundation, Ivy Cyber, or 3NSoft may also be protected by applicable trademark law. Software and documentation licenses do not grant trademark rights or permission to use such marks in a manner that suggests sponsorship, endorsement, affiliation, or origin.
 
-Third-party software and documentation retain their original copyrights and licenses. See the individual repositories, `NOTICE`, `LICENSES/`, and file-level SPDX identifiers for details.
+Third-party software and documentation retain their original copyrights and licenses. See the individual repositories, `NOTICE`, `LICENSES`, and file-level SPDX identifiers for details.
