@@ -61,22 +61,22 @@ Other client-side pieces:
 
 Server-side:
 
-* **[Protocols at IEEE](https://opensource.ieee.org/3nweb):** 3NWeb protocol documentation is hosted at IEEE SA Open.
+* **Protocols at IEEE:** 3NWeb protocol documentation is hosted at IEEE SA Open. [Source](https://opensource.ieee.org/3nweb)
 * **3NWeb Spec Server:** Reference server implementation and specification test suite. [Source](https://github.com/PrivacySafe/spec-server)
 * **3NWeb Service:** Deployment documentation and tooling for running MailerId, ASMail, and 3NStorage services. [Source](https://github.com/PrivacySafe/3nweb-service)
 
 ## 🌐 Free Public Services
 
-* [PrivacySafe Social](https://privacysafe.social): Social community without advertising or algorithmic timeline manipulation. [Source](https://github.com/PrivacySafe/privacysafe-social-ui)
-* [PrivacySafe Search](https://privacysafe.is): Privacy-respecting web search.
-* [PrivacySafe Bot](https://privacysafe.bot): Password and passphrase generator. [Source](https://github.com/PrivacySafe/privacysafe-bot)
-* [PrivacySafe Locker](https://privacysafe.locker): Share private files and memos. [Source](https://github.com/PrivacySafe/privacysafe-locker)
+* **[PrivacySafe Social](https://privacysafe.social):** Social community without advertising or algorithmic timeline manipulation. [Source](https://github.com/PrivacySafe/privacysafe-social-ui)
+* **[PrivacySafe Search](https://privacysafe.is):** Privacy-respecting web search.
+* **[PrivacySafe Bot](https://privacysafe.bot):** Password and passphrase generator. [Source](https://github.com/PrivacySafe/privacysafe-bot)
+* **[PrivacySafe Locker](https://privacysafe.locker):** Share private files and memos. [Source](https://github.com/PrivacySafe/privacysafe-locker)
 
 ### Android apps for public services
 
-* **PrivacySafe Social for Android:** Android app for [PrivacySafe Social](https://privacysafe.social). [Source](https://github.com/PrivacySafe/privacysafe-social-android)
-* **PrivacySafe Search for Android:** Android app for [PrivacySafe Search](https://privacysafe.is). [Source](https://github.com/PrivacySafe/privacysafe-search-android)
-* **PrivacySafe Bot for Android:** Android app for [PrivacySafe Bot](https://privacysafe.bot). [Source](https://github.com/PrivacySafe/privacysafe-bot-android)
+* **PrivacySafe Social for Android:** Android app for PrivacySafe Social. [Source](https://github.com/PrivacySafe/privacysafe-social-android)
+* **PrivacySafe Search for Android:** Android app for PrivacySafe Search. [Source](https://github.com/PrivacySafe/privacysafe-search-android)
+* **PrivacySafe Bot for Android:** Android app for PrivacySafe Bot. [Source](https://github.com/PrivacySafe/privacysafe-bot-android)
 
 ## 🏛️ PrivacySafe Foundation
 
@@ -84,7 +84,7 @@ Server-side:
 
 ### Support the Foundation
 
-* [Donate directly to the Foundation](https://privacysafe.foundation)
+* **[Donate directly to the Foundation](https://privacysafe.foundation)**
 * [Open Collective](https://opencollective.com/privacysafe)
 * [Ko-fi](https://ko-fi.com/R6R1194HN7)
 * [Liberapay](https://liberapay.com/PrivacySafe/donate)
@@ -95,7 +95,7 @@ The Foundation website provides options for card donations, PayPal/Venmo, crypto
 
 [Ivy Cyber](https://ivycyber.com) publishes and supports commercial PrivacySafe offerings, including paid identities, hosting, infrastructure, enterprise deployment, hardware, training, and technical support.
 
-* [PrivacySafe products and services](https://ivycyber.com)
+* **[PrivacySafe products and services](https://ivycyber.com)**
 * [Shop](https://ivycyber.com/shop/)
 * [Private cryptocurrency checkout](https://cryptopay.ivycyber.com/)
 
@@ -119,10 +119,10 @@ The Foundation website provides options for card donations, PayPal/Venmo, crypto
 
 We keep our history public. These projects and their source remain available, but they are not part of the current PrivacySafe software or public services:
 
-* **PrivacySafe Link:** Secret notes that self-destruct after reading. [Archives](https://github.com/PrivacySafe/privacysafe-link)
-* **StickTock:** Watch, download, and share TikTok videos through a privacy-oriented interface. [Archives](https://github.com/PrivacySafe/sticktock)
-* **RefreshView Browser:** A minimal browser project focused on a cleaner web experience. [Archives](https://github.com/PrivacySafe/refreshview-browser)
-* **CertMagi.cc:** Experimental verified-document publishing using distributed and censorship-resistant infrastructure. [Archives](https://github.com/PrivacySafe/certmagicc)
+* PrivacySafe Link: Secret notes that self-destruct after reading. [Archives](https://github.com/PrivacySafe/privacysafe-link)
+* StickTock: Watch, download, and share TikTok videos through a privacy-oriented interface. [Archives](https://github.com/PrivacySafe/sticktock)
+* RefreshView Browser: A minimal browser project focused on a cleaner web experience. [Archives](https://github.com/PrivacySafe/refreshview-browser)
+* CertMagi.cc: Experimental verified-document publishing using distributed and censorship-resistant infrastructure. [Archives](https://github.com/PrivacySafe/certmagicc)
 
 ## 🤝 Contributing
 
