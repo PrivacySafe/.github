@@ -14,7 +14,7 @@ Technology should work for the people using it.
 
 We reject advertising surveillance, spyware, manipulative interface patterns, hidden tracking, forced algorithmic feeds, and unnecessary behavioral profiling. We do not believe people should have to surrender autonomy in order to communicate, learn, store information, or participate online.
 
-Artificial intelligence should remain a choice. PrivacySafe does not require people to use AI agents, AI-generated suggestions, or AI moderation as a condition of using our software or public-interest services.
+Artificial intelligence should remain a choice. We do not require people to use AI agents, AI-generated suggestions, or AI moderation as a condition of using our software or public-interest services.
 
 ## 3. Software freedom and public standards matter
 
@@ -48,11 +48,11 @@ When we moderate community services, we aim to explain the standards being appli
 
 When we make mistakes, we should correct them, document material changes, and improve the systems or processes that allowed the problem to occur.
 
-## 7. Public discussion requires responsibility
+## 7. Communication requires responsibility
 
 We support free expression, good-faith disagreement, technical criticism, research, education, and discussion of difficult subjects.
 
-Public discussion works best when participants respect privacy, avoid harassment and deception, credit sources, stay within authorized systems, and take responsibility for what they publish or contribute.
+Discussion, whether public or anonymous, is only responsible and sustainable when participants respect privacy, avoid harassment and deception, credit sources, stay within authorized systems, and take accountability for what they publish or contribute.
 
 Our **8 Simple Rules**, Community Guidelines, Contributor Covenant-based Code of Conduct, and Contributor Guidelines provide practical standards for different PrivacySafe and 3NWeb spaces.
 
@@ -70,10 +70,13 @@ Public-interest work may be funded by donations to the PrivacySafe Foundation 50
 
 Different organizations may have different operational roles, but commercial sustainability, fundraising, hosting, or organizational structure should not override the core commitments to privacy, security, software freedom, user autonomy, and transparent technical practice.
 
-## 10. We are building a better web with others
+## 10. Building a better web requires collaboration
 
 PrivacySafe and 3NWeb are part of a larger ecosystem of people building decentralized communications, privacy technology, Free/Libre and Open Source Software (FLOSS), public standards, and safer digital communities.
 
 We benefit from upstream projects, researchers, standards communities, independent developers, educators, donors, users, and other organizations. We should preserve attribution, share improvements where required or useful, contribute upstream when practical, and collaborate across communities.
 
 The goal is not to create another closed platform. It is to help build a web where people have more control, more privacy, more security, and more freedom.
+
+---
+This document is released under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
