@@ -1,10 +1,10 @@
 # AI Contribution Policy
 
-_Last updated: September 5, 2026_
+_Last updated: September 6, 2026_
 
 ## 0. Scope and terminology
 
-In this policy, **AI** means software systems that use machine learning, large language models, or related probabilistic techniques to generate or substantially transform code, documentation, tests, issue text, designs, or other project material.
+In this policy, the terms "AI" and "artificial intelligence" are used to refer to systems that utilize machine learning (ML), large language models (LLMs), or related probabilistic techniques to generate or substantially transform code, documentation, tests, issue text, designs, or other project material. Some of these systems are referred to as "generative AI" or "hybrid AI" in academic literature. This includes popular software such as ChatGPT, Copilot, Claude, Gemini, Grok, and similar systems.
 
 Examples include ChatGPT, GitHub Copilot, Claude, Gemini, Grok, and similar tools.
 
@@ -153,7 +153,7 @@ These decisions are made to protect project security, copyright and licensing in
 
 ## 9. Acknowledgement
 
-This policy was informed by public contribution policies and discussions from projects including Mastodon, CloudNativePG, Ghostty, and the Linux Foundation.
+This policy was informed by public contribution policies and discussions from projects including [Mastodon](https://github.com/mastodon/.github/blob/main/AI_POLICY.md), CloudNativePG, Ghostty, and the Linux Foundation.
 
 ## 10. License
 
