@@ -130,10 +130,10 @@ Contributions are welcome. Please fork, remix, and submit focused pull requests.
 
 ⚠️ Never send sensitive information about yourself or other users through ordinary direct messages or unencrypted email.
 
-* **Contributor information:** See [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
-* **Contribution terms:** See [`CONTRIBUTING.md`](CONTRIBUTING.md).
-* **Bugs & Security Issues:** See [`SECURITY.md`](SECURITY.md).
-* **AI Contribution Policy:** See [`AI_POLICY.md`](AI_POLICY.md) before submitting a pull request.
+* **Contributor information:** See [`CONTRIBUTORS.md`](../CONTRIBUTORS.md).
+* **Contribution terms:** See [`CONTRIBUTING.md`](../CONTRIBUTING.md).
+* **Bugs & Security Issues:** See [`SECURITY.md`](../SECURITY.md).
+* **AI Contribution Policy:** See [`AI_POLICY.md`](../AI_POLICY.md) before submitting a pull request.
 * **Report Abuse:** Email [abuse@privacysafe.net](mailto:abuse@privacysafe.net) using the published [GPG key](https://psafe.ly/xSpQhF) when sensitive information is involved.
 
 ## 📰 Newsletter
