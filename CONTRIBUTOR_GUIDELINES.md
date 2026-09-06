@@ -212,3 +212,6 @@ PrivacySafe and 3NWeb adopt [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md), based on
 These Contributor Guidelines provide additional project-specific guidance and are independently written. They draw on public guidance from the [GCC Code of Conduct](https://gcc.gnu.org/conduct.html) and the [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html).
 
 The Contributor Guidelines supplement the Code of Conduct and do not reduce its protections or participation standards.
+
+---
+This document is released under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
