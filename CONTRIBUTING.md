@@ -9,12 +9,12 @@ PrivacySafe and 3NWeb are Free/Libre and Open Source Software (FLOSS) projects w
 Please read and follow:
 
 * [`VALUES.md`](VALUES.md) for the principles that guide PrivacySafe and 3NWeb;
-* [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) for the adopted Contributor Covenant 3.0 Code of Conduct;
-* [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md) for PrivacySafe and 3NWeb-specific communication and collaboration guidance;
+* [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md) for project-specific collaboration guidance;
+* [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) for contributor conduct and project communication;
 * [`AI_POLICY.md`](AI_POLICY.md) for AI-assisted contributions; and
 * [`SECURITY.md`](SECURITY.md) for vulnerability disclosure and security-sensitive reports.
 
-Community-facing spaces such as PrivacySafe Social and the Ivy Cyber Learning Commons also use the shared Community Guidelines and **8 Simple Rules**. Those rules supplement the repository Code of Conduct where they apply.
+Community-facing spaces such as PrivacySafe Social and the Ivy Cyber Learning Commons also use the shared [`COMMUNITY_GUIDELINES.md`](COMMUNITY_GUIDELINES.md) and [8 Simple Rules](https://privacysafe.social/about#8-simple-rules). Those rules supplement the repository Code of Conduct where they apply.
 
 Never send passwords, recovery phrases, private keys, sensitive user data, unreleased vulnerabilities, or other confidential material through public issues or ordinary direct messages.
 
@@ -173,3 +173,7 @@ Use the published GPG keys for sensitive reports.
 ## Thank you
 
 Review, testing, documentation, issue triage, small fixes, careful criticism, and other forms of participation are all valuable. We appreciate the time contributors spend helping PrivacySafe and 3NWeb improve.
+
+---
+
+This document is released under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
