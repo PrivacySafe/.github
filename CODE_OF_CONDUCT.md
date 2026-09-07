@@ -91,7 +91,7 @@ Conduct outside project or community spaces that is unrelated to official projec
 
 PrivacySafe and 3NWeb also maintain [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md), which provides additional project-specific guidance on kind technical communication, software freedom, privacy, security, contributor collaboration, and project discussion. These policies put the principles in [`VALUES.md`](VALUES.md) into practice for project collaboration.
 
-Those guidelines supplement this Code of Conduct and do not reduce the protections or participation standards of Contributor Covenant 3.0. Community-facing spaces also use the [8 Simple Rules](https://privacysafe.social/about#8-simple-rules) and [`COMMUNITY_GUIDELINES.md`](COMMUNITY_GUIDELINES.md).
+Those guidelines supplement this Code of Conduct and do not reduce the protections or participation standards of Contributor Covenant 3.0. Community-facing spaces may also be subject to the [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines) and, where applicable, the [8 Simple Rules](https://privacysafe.social/about#8-simple-rules).
 
 ## Attribution
 
