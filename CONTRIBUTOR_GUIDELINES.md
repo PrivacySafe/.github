@@ -6,7 +6,7 @@ _Last updated: September 6, 2026_
 
 PrivacySafe and 3NWeb bring together volunteers, paid professionals, students, teachers, researchers, maintainers, users, and other contributors from different countries, cultures, backgrounds, identities, disciplines, and viewpoints.
 
-That variety makes the projects stronger, but it also means that people may have different communication styles, expectations, languages, and experiences. These Contributor Guidelines establish project-specific expectations for respectful and productive collaboration.
+That variety makes the projects stronger, but it also means that people may have different communication styles, expectations, languages, and experiences. These Contributor Guidelines establish project-specific expectations for respectful and productive collaboration. They put the principles in [`VALUES.md`](VALUES.md) into practice for contributor collaboration.
 
 These Contributor Guidelines apply equally to everyone participating in PrivacySafe and 3NWeb project spaces, regardless of role, level of responsibility, length of involvement, or technical experience. Maintainers, contributors, newcomers, people seeking help, and anyone representing the projects are expected to follow the same standards.
 
@@ -138,7 +138,7 @@ Clearer, calmer communication generally makes technical persuasion more effectiv
 
 PrivacySafe and 3NWeb discussions are not general-purpose political forums. Do not derail technical or project work with political disputes unrelated to the project.
 
-Project decisions may be guided by software freedom, privacy, security, decentralization, user autonomy, and human rights in computing. Contributors do not need to share every political opinion held by maintainers or other participants.
+Project decisions are guided by the principles in [`VALUES.md`](VALUES.md), including software freedom, privacy, security, decentralization, and human autonomy. Contributors do not need to share every political opinion held by maintainers or other participants.
 
 ## Where this Code applies
 
@@ -197,7 +197,7 @@ Good-faith disagreement, technical criticism, requests for evidence, discussion 
 
 ## Related community rules
 
-PrivacySafe Social, the Ivy Cyber Learning Commons, and other community-facing services use the shared **8 Simple Rules** and additional Community Guidelines appropriate to those environments. Those rules address service conduct such as privacy, harassment, spam, age requirements, explicit content, attribution, AI disclosure, safety, and moderation.
+PrivacySafe Social, the Ivy Cyber Learning Commons, and other community-facing services use the shared [**8 Simple Rules**](https://privacysafe.social/about#8-simple-rules) and additional [`COMMUNITY_GUIDELINES.md`](COMMUNITY_GUIDELINES.md) appropriate to those environments. Those rules address service conduct such as privacy, harassment, spam, age requirements, explicit content, attribution, AI disclosure, safety, and moderation.
 
 Repository contributors should follow both these Contributor Guidelines and any service-specific Community Guidelines that apply to the space they are using.
 
@@ -214,4 +214,5 @@ These Contributor Guidelines provide additional project-specific guidance and ar
 The Contributor Guidelines supplement the Code of Conduct and do not reduce its protections or participation standards.
 
 ---
+
 This document is released under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
