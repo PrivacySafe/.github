@@ -207,11 +207,11 @@ Questions about how these Contributor Guidelines apply to a particular PrivacySa
 
 ## Relationship to the Code of Conduct
 
-PrivacySafe and 3NWeb adopt [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md), based on Contributor Covenant 3.0, as the formal Code of Conduct for project spaces.
+PrivacySafe and 3NWeb use [`CODE_OF_CONDUCT.md`](https://github.com/PrivacySafe/.github/blob/main/CODE_OF_CONDUCT.md), based on Contributor Covenant 3.0, as the formal Code of Conduct for project spaces.
 
-These Contributor Guidelines provide additional project-specific guidance and are independently written. They draw on public guidance from the [GCC Code of Conduct](https://gcc.gnu.org/conduct.html) and the [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html).
+These Contributor Guidelines provide additional project-specific guidance for collaboration and communication. They are independently written and draw on public guidance from the [GCC Code of Conduct](https://gcc.gnu.org/conduct.html) and the [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html).
 
-The Contributor Guidelines supplement the Code of Conduct and do not reduce its protections or participation standards.
+The Contributor Guidelines work alongside the Code of Conduct and do not replace or narrow its protections.
 
 ---
 
