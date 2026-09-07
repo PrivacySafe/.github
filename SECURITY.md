@@ -8,7 +8,7 @@ PrivacySafe is a family of software, public-interest services, protocols, and in
 
 Ivy Cyber provides technical security operations, triage, remediation coordination, infrastructure support, and, where applicable, bug bounty administration for PrivacySafe systems. We welcome good-faith security research that helps us protect users, software, public services, and infrastructure.
 
-We build Free/Libre and Open Source Software (FLOSS) and favor responsible disclosure, reproducible reports, transparent remediation, and acknowledgement of researchers after risks to users and the public have been resolved or mitigated.
+We build Free/Libre and Open Source Software (FLOSS) and favor responsible disclosure, reproducible reports, transparent remediation, and acknowledgement of researchers after risks to users and the public have been resolved or mitigated. This policy reflects the commitments to verifiable security, transparency, and non-destructive technical work in [`VALUES.md`](VALUES.md).
 
 ## <a name="open-bug-bounty">[Open Bug Bounty](https://www.openbugbounty.org/bugbounty/privacysafe/)</a>
 
