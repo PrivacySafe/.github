@@ -1,82 +1,39 @@
 # PrivacySafe and 3NWeb Values
 
-_Last updated: September 6, 2026_
+*Last updated: September 6, 2026*
 
 ## 1. Privacy is a public good
 
-Privacy and security should be available to everyone, not reserved for people with special expertise or resources.
+Privacy and security should be available to everyone. We favor zero-knowledge systems and anonymous interaction wherever feasible. We collect as little information as reasonably necessary, favor privacy-protective defaults, and offer meaningful and empowering choices for users. We support education that helps people understand and control their digital lives.
 
-We design software, services, education, and infrastructure to collect as little information as reasonably necessary. We favor privacy-protective defaults and give people meaningful choices about how their information, identities, and communications are handled.
+## 2. People must control technology
 
-## 2. People should control their technology
-
-Technology should work for the people using it.
-
-We reject advertising surveillance, spyware, manipulative interface patterns, hidden tracking, forced algorithmic feeds, and unnecessary behavioral profiling. We do not believe people should have to surrender autonomy in order to communicate, learn, store information, or participate online.
-
-Artificial intelligence should remain a choice. We do not require people to use AI agents, AI-generated suggestions, or AI moderation as a condition of using our software or public-interest services.
+Technology should serve humans and societies. We reject advertising surveillance, spyware, and hidden tracking. We do not implement manipulative design or forced algorithmic feeds. Artificial intelligence must remain optional.
 
 ## 3. Software freedom and public standards matter
 
-PrivacySafe and 3NWeb are built around Free/Libre and Open Source Software (FLOSS), auditable technology, and public standards.
-
-People and organizations should be able to inspect, study, modify, share, and self-host the software they depend on, subject to the applicable free software licenses.
-
-3NWeb architecture, protocols, and formats should be documented so that independent implementations can interoperate without requiring permission from a central platform.
+We develop and deploy Free/Libre and Open Source Software (FLOSS), auditable technology, and public standards. People must be free to run software for any purpose, understand and modify it, and share original or modified copies. They should also be able to self-host the software and services they depend on. Our protocols and file formats should be documented so independent implementations can interoperate across boundaries.
 
 ## 4. Decentralization protects autonomy
 
-We build systems that allow people and communities to connect without requiring one organization to control everyone.
+We build systems which reject the idea that centralization is the only option. Federation, self-hosting, and portable identities give people more control over how they participate. Independent infrastructure allows communities to make their own decisions while remaining connected to others. Sustainable decentralization requires honesty, safety, and accountability.
 
-Federation, self-hosting, portable identities, interoperable protocols, and independently operated infrastructure make it possible for different communities to participate on their own terms while still communicating across organizational and technical boundaries.
+## 5. Trust requires transparency
 
-Decentralization is not an excuse to ignore safety or accountability. Communities and operators should be able to make their own decisions while being transparent about the rules they apply.
+Security and privacy claims should be backed by code, architecture, and testing. Our policies and development processes must be open to inspection. We explain important tradeoffs because no digital communication or interaction is risk-free. When mistakes happen, we correct them and improve our approach and systems.
 
-## 5. Security should be understandable and verifiable
+## 6. Communication requires responsibility
 
-Security claims should be grounded in architecture, code, testing, documentation, and responsible vulnerability disclosure.
+We support free expression, good-faith disagreement, and technical criticism. Participants should respect privacy, avoid harassment, and credit sources. We stay within authorized systems when conducting technical work or research. Public and anonymous communication alike should be thoughtful, responsible, and non-destructive.
 
-We favor designs that can be reviewed and audited. We disclose important security and privacy tradeoffs instead of pretending that any system is risk-free.
+## 7. Permissionless innovation must endure
 
-People should understand what they are trusting, what information a service can see, and what remains under their own control.
+We are helping the next generation create, experiment, and build without centralized permission. Public-interest, community, and commercial work can coexist. Differing funding, ownership, and decision-making models are welcome. Those models must preserve privacy, software freedom, and human autonomy.
 
-## 6. Transparency earns trust
+## 8. Collaboration builds a better web
 
-Our source code, public policies, contribution rules, security process, and community standards should be available for people to inspect.
-
-When we moderate community services, we aim to explain the standards being applied and publish meaningful transparency information where practical.
-
-When we make mistakes, we should correct them, document material changes, and improve the systems or processes that allowed the problem to occur.
-
-## 7. Communication requires responsibility
-
-We support free expression, good-faith disagreement, technical criticism, research, education, and discussion of difficult subjects.
-
-Discussion, whether public or anonymous, is only responsible and sustainable when participants respect privacy, avoid harassment and deception, credit sources, stay within authorized systems, and take accountability for what they publish or contribute.
-
-Our **8 Simple Rules**, Community Guidelines, Contributor Covenant-based Code of Conduct, and Contributor Guidelines provide practical standards for different PrivacySafe and 3NWeb spaces.
-
-## 8. Education and access are vital for security
-
-Strong privacy and cybersecurity should not depend on whether someone can afford expensive proprietary tools, training, or infrastructure.
-
-We support cybersecurity education, documentation, public-interest research, accessible learning, and practical resources that help people understand and control their digital lives.
-
-## 9. Permissionless innovation must endure
-
-PrivacySafe and 3NWeb are built to ensure that the next generation can create, experiment, communicate, and build without needing permission from centralized gatekeepers.
-
-That work spans public-interest, nonprofit, community, and commercial activity. The PrivacySafe Foundation supports charitable public-interest work, Ivy Cyber publishes and supports commercial PrivacySafe offerings, and 3NSoft contributes development, documentation, hosting, and infrastructure.
-
-Different organizations can play different roles, but the technology and governance must continue to protect privacy, security, software freedom, user autonomy, and the conditions for permissionless innovation.
-
-## 10. Building a better web requires collaboration
-
-PrivacySafe and 3NWeb are part of a larger ecosystem of people building decentralized communications, privacy technology, Free/Libre and Open Source Software (FLOSS), public standards, and safer digital communities.
-
-We benefit from upstream projects, researchers, standards communities, independent developers, educators, donors, users, and other organizations. We should preserve attribution, share improvements where required or useful, contribute upstream when practical, and collaborate across communities.
-
-The goal is not to create another closed platform. It is to help build a web where people have more control, more privacy, more security, and more freedom.
+We are part of a wider ecosystem of developers, researchers, and educators. We should preserve attribution, share improvements, and contribute upstream when practical. We support public-interest research and education that help more people participate in the commons. The goal is a web with more privacy, security, and freedom.
 
 ---
+
 This document is released under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
