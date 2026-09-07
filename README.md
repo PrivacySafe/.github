@@ -130,11 +130,14 @@ Contributions are welcome. Please fork, remix, and submit focused pull requests.
 
 ⚠️ Never send sensitive information about yourself or other users through ordinary direct messages or unencrypted email.
 
-* **Contributor information:** See [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
-* **Contribution terms:** See [`CONTRIBUTING.md`](CONTRIBUTING.md).
-* **Bugs & Security Issues:** See [`SECURITY.md`](SECURITY.md).
-* **AI Contribution Policy:** See [`AI_POLICY.md`](AI_POLICY.md) before submitting a pull request.
-* **Report Abuse:** Email [abuse@privacysafe.net](mailto:abuse@privacysafe.net) using the published [GPG key](https://psafe.ly/xSpQhF) when sensitive information is involved.
+- **Contribution terms:** [`CONTRIBUTING.md`](CONTRIBUTING.md)
+- **Contributor Guidelines:** [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md)
+- **Code of Conduct:** [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
+- **AI Contribution Policy:** [`AI_POLICY.md`](AI_POLICY.md)
+- **Security and vulnerability reporting:** [`SECURITY.md`](SECURITY.md)
+- **Contributor information:** [`CONTRIBUTORS.md`](CONTRIBUTORS.md)
+
+Our [Values](VALUES.md) explain the principles behind the project. The [8 Simple Rules](https://privacysafe.social/about#8-simple-rules), [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines), and contributor documents above put those principles into practice in different spaces.
 
 ## 📰 Newsletter
 
