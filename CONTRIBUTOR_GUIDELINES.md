@@ -197,9 +197,7 @@ Good-faith disagreement, technical criticism, requests for evidence, discussion 
 
 ## Related community rules
 
-Community-facing services such as PrivacySafe Social and the Learning Commons follow the [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines) and, where applicable, the [8 Simple Rules](https://privacysafe.social/about#8-simple-rules).
-
-These Contributor Guidelines govern PrivacySafe and 3NWeb project collaboration. Service-specific community rules also apply when contributors participate in a community-facing space.
+These Contributor Guidelines govern PrivacySafe and 3NWeb project collaboration. Service-specific rules also apply when contributors participate in a community space. These include the [8 Simple Rules](https://privacysafe.social/about#8-simple-rules) from PrivacySafe Social and the [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines) for our Learning Commons and community events.
 
 ## Questions
 
