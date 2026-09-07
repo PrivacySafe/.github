@@ -2,6 +2,10 @@
 
 *Last updated: September 6, 2026*
 
+The following values are essential to guide our work, speech, and actions. Our [Community Guidelines](COMMUNITY_GUIDELINES.md), [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md), [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md), and [8 Simple Rules](https://privacysafe.social/about#8-simple-rules) apply the values stated below in specific contexts and spaces.
+
+---
+
 ## 1. Privacy is a public good
 
 Privacy and security should be available to everyone. We favor zero-knowledge systems and anonymous interaction wherever feasible. We collect as little information as reasonably necessary, favor privacy-protective defaults, and offer meaningful and empowering choices for users. We support education that helps people understand and control their digital lives.
