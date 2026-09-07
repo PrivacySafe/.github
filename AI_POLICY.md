@@ -8,7 +8,7 @@ In this policy, the terms "AI" and "artificial intelligence" are used to refer t
 
 ## 1. Purpose and principles
 
-PrivacySafe and 3NWeb are privacy-first, public standards-driven projects built around transparency, security, software freedom, and user autonomy. Contributions must preserve:
+PrivacySafe and 3NWeb follow the principles in [`VALUES.md`](VALUES.md), including the commitment that artificial intelligence must remain optional. For contributions, that means AI may assist human work but must not displace human judgment, accountability, or control. Contributions must preserve:
 
 - human accountability;
 - verifiable, auditable, and secure code;
@@ -153,6 +153,6 @@ These decisions are made to protect project security, copyright and licensing in
 
 This policy was informed by public contribution policies and discussions from projects including [Mastodon](https://github.com/mastodon/.github/blob/main/AI_POLICY.md), CloudNativePG, Ghostty, and the Linux Foundation.
 
-## 10. License
+---
 
 This document is released under the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
