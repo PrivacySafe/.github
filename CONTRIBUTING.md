@@ -14,7 +14,7 @@ Please read and follow:
 * [`AI_POLICY.md`](AI_POLICY.md) for AI-assisted contributions; and
 * [`SECURITY.md`](SECURITY.md) for vulnerability disclosure and security-sensitive reports.
 
-Community-facing spaces such as PrivacySafe Social and the Learning Commons follow the [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines) and, where applicable, the [8 Simple Rules](https://privacysafe.social/about#8-simple-rules). These community rules are separate from the repository Code of Conduct and apply only where the relevant service or space adopts them.
+Community spaces such as PrivacySafe Social and the Learning Commons follow the [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines) and, where applicable, the [8 Simple Rules](https://privacysafe.social/about#8-simple-rules). These community rules are separate from the repository Code of Conduct and apply only where the relevant service or space adopts them.
 
 Never send passwords, recovery phrases, private keys, sensitive user data, unreleased vulnerabilities, or other confidential material through public issues or ordinary direct messages.
 
