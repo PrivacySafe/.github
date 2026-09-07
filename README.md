@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://privacysafe.app"><img src="assets/privacysafe_header_600.png" width="600" /></a>
+  <a href="https://privacysafe.app"><img src="assets/privacysafe_horizontal_logo_lock_reg_padded.svg" width="600" /></a>
 </p>
 <h1 align="center">Your Private Life, Locked In</h1>
 
