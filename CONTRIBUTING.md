@@ -142,7 +142,7 @@ By submitting a pull request or other contribution, you represent that you have 
 
 Unless a repository or file states otherwise, original PrivacySafe and 3NWeb software in this repository is distributed under the **GNU Affero General Public License version 3 or later (`AGPL-3.0-or-later`)**.
 
-A contribution submitted to an AGPL-licensed repository must be compatible with that license. Do not copy code from a project under an incompatible license. If a contribution contains third-party code, identify the source, copyright holder, license, and upstream URL in the pull request and update `NOTICE` or `LICENSES` when required.
+A contribution submitted to an AGPL-licensed repository must be compatible with that license. Do not copy code from a project under an incompatible license. If a contribution contains third-party code, identify the source, copyright holder, license, and upstream URL in the pull request and update `NOTICE` or `LICENSES/` when required.
 
 Software source files should carry an `SPDX-License-Identifier: AGPL-3.0-or-later` marker where the format permits one.
 
