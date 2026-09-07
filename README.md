@@ -151,4 +151,4 @@ Unless otherwise noted, original PrivacySafe and 3NWeb software is licensed unde
 
 PrivacySafe® and 3NWeb® are registered trademarks. PrivacySafe Foundation™ and Ivy Cyber™ are pending trademarks. Other product, service, technology, and organization names, logos, and marks used in connection with PrivacySafe, 3NWeb, PrivacySafe Foundation, Ivy Cyber, or 3NSoft may also be protected by applicable trademark law. Software and documentation licenses do not grant trademark rights or permission to use such marks in a manner that suggests sponsorship, endorsement, affiliation, or origin.
 
-Third-party software and documentation retain their original copyrights and licenses. See the individual repositories, `NOTICE`, `LICENSES`, and file-level SPDX identifiers for details.
+Third-party software and documentation retain their original copyrights and licenses. See the individual repositories, `NOTICE`, `LICENSES/`, and file-level SPDX identifiers for details.
