@@ -197,9 +197,9 @@ Good-faith disagreement, technical criticism, requests for evidence, discussion 
 
 ## Related community rules
 
-PrivacySafe Social, the Ivy Cyber Learning Commons, and other community-facing services use the shared [**8 Simple Rules**](https://privacysafe.social/about#8-simple-rules) and additional [`COMMUNITY_GUIDELINES.md`](COMMUNITY_GUIDELINES.md) appropriate to those environments. Those rules address service conduct such as privacy, harassment, spam, age requirements, explicit content, attribution, AI disclosure, safety, and moderation.
+Community-facing services such as PrivacySafe Social and the Learning Commons follow the [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines) and, where applicable, the [8 Simple Rules](https://privacysafe.social/about#8-simple-rules).
 
-Repository contributors should follow both these Contributor Guidelines and any service-specific Community Guidelines that apply to the space they are using.
+These Contributor Guidelines govern PrivacySafe and 3NWeb project collaboration. Service-specific community rules also apply when contributors participate in a community-facing space.
 
 ## Questions
 
@@ -207,11 +207,11 @@ Questions about how these Contributor Guidelines apply to a particular PrivacySa
 
 ## Relationship to the Code of Conduct
 
-PrivacySafe and 3NWeb use [`CODE_OF_CONDUCT.md`](https://github.com/PrivacySafe/.github/blob/main/CODE_OF_CONDUCT.md), based on Contributor Covenant 3.0, as the formal Code of Conduct for project spaces.
+PrivacySafe and 3NWeb adopt [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md), based on Contributor Covenant 3.0, as the formal Code of Conduct for project spaces.
 
-These Contributor Guidelines provide additional project-specific guidance for collaboration and communication. They are independently written and draw on public guidance from the [GCC Code of Conduct](https://gcc.gnu.org/conduct.html) and the [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html).
+These Contributor Guidelines provide additional project-specific guidance and are independently written. They draw on public guidance from the [GCC Code of Conduct](https://gcc.gnu.org/conduct.html) and the [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.html).
 
-The Contributor Guidelines work alongside the Code of Conduct and do not replace or narrow its protections.
+The Contributor Guidelines supplement the Code of Conduct and do not reduce its protections or participation standards.
 
 ---
 
