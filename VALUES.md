@@ -2,7 +2,7 @@
 
 *Last updated: September 6, 2026*
 
-The following values are essential to guide our work, speech, and actions. Our [Community Guidelines](COMMUNITY_GUIDELINES.md), [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md), [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md), and [8 Simple Rules](https://privacysafe.social/about#8-simple-rules) apply the values stated below in specific contexts and spaces.
+The following values are essential to guide our work, speech, and actions. Our [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md), [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md), [Community Guidelines](https://privacysafe.foundation/community-guidelines), and [8 Simple Rules](https://privacysafe.social/about#8-simple-rules) apply the values stated below in specific contexts and spaces.
 
 ---
 
