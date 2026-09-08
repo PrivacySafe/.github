@@ -17,7 +17,7 @@ Sign up free, no phone number required 👉 <a href="https://privacysafe.app">Pr
   <a href="https://download.privacysafe.app/nightly/linux/" target="_blank">
   <img src="../assets/download-gnulinux.svg" alt="Get it on GNU/Linux" width="160">
   </a>
-  <a href="https://download.privacysafe.app/nightly-android" target="_blank">
+  <a href="https://download.privacysafe.app/nightly/android" target="_blank">
   <img src="../assets/download-android.svg" alt="Get it on Android" width="160">
   </a>
 </p>
