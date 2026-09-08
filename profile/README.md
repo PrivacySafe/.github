@@ -27,7 +27,7 @@ PrivacySafe is privacy-by-design software for home, teams, and organizations. Ge
 * 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))
 * 🍏 [Mac](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))
 * 🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
-* 🤖 [Android testing](https://download.privacysafe.app/nightly-android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
+* 🤖 [Android testing](https://download.privacysafe.app/nightly/android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
 
 [Sign up FREE](https://privacysafe.app) at `@privacysafe.xyz`, choose [Gold PRO](https://psafe.ly/pspro) at ``@privacysafe.me``, or [Platinum VIP](https://psafe.ly/psvip) at ``@privacysafe.gg``. Organizations can use their own domain and deploy the [server code](https://github.com/PrivacySafe/spec-server).
 
