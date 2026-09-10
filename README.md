@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://privacysafe.app"><img src="../assets/privacysafe_horizontal_logo_lock_reg_padded.svg" width="600" /></a>
+  <a href="https://privacysafe.app"><img src="assets/privacysafe_horizontal_logo_lock_reg_padded.svg" width="600" /></a>
 </p>
 <h1 align="center">Your Private Life, Locked In</h1>
 
@@ -9,16 +9,16 @@ Sign up free, no phone number required 👉 <a href="https://privacysafe.app">Pr
 
 <p align="center">
   <a href="https://download.privacysafe.app/latest/windows/" target="_blank">
-  <img src="../assets/download-windows.svg" alt="Get it on Windows" width="160">
+  <img src="/assets/download-windows.svg" alt="Get it on Windows" width="160">
   </a>
   <a href="https://download.privacysafe.app/latest/mac/" target="_blank">
-  <img src="../assets/download-mac.svg" alt="Get it on Mac" width="160">
+  <img src="/assets/download-mac.svg" alt="Get it on Mac" width="160">
   </a>
   <a href="https://download.privacysafe.app/latest/linux/" target="_blank">
-  <img src="../assets/download-gnulinux.svg" alt="Get it on GNU/Linux" width="160">
+  <img src="/assets/download-gnulinux.svg" alt="Get it on GNU/Linux" width="160">
   </a>
   <a href="https://download.privacysafe.app/latest/android" target="_blank">
-  <img src="../assets/download-android.svg" alt="Get it on Android" width="160">
+  <img src="/assets/download-android.svg" alt="Get it on Android" width="160">
   </a>
 </p>
 
