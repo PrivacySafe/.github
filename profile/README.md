@@ -8,26 +8,26 @@ Sign up free, no phone number required 👉 <a href="https://privacysafe.app">Pr
 </h2>
 
 <p align="center">
-  <a href="https://download.privacysafe.app/nightly/windows/" target="_blank">
+  <a href="https://download.privacysafe.app/latest/windows/" target="_blank">
   <img src="../assets/download-windows.svg" alt="Get it on Windows" width="160">
   </a>
-  <a href="https://download.privacysafe.app/nightly/mac/" target="_blank">
+  <a href="https://download.privacysafe.app/latest/mac/" target="_blank">
   <img src="../assets/download-mac.svg" alt="Get it on Mac" width="160">
   </a>
-  <a href="https://download.privacysafe.app/nightly/linux/" target="_blank">
+  <a href="https://download.privacysafe.app/latest/linux/" target="_blank">
   <img src="../assets/download-gnulinux.svg" alt="Get it on GNU/Linux" width="160">
   </a>
-  <a href="https://download.privacysafe.app/nightly/android" target="_blank">
+  <a href="https://download.privacysafe.app/latest/android" target="_blank">
   <img src="../assets/download-android.svg" alt="Get it on Android" width="160">
   </a>
 </p>
 
 PrivacySafe is privacy-by-design software for home, teams, and organizations. Get PrivacySafe on:
 
-* 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))
-* 🍏 [Mac](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))
-* 🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
-* 🤖 [Android testing](https://download.privacysafe.app/nightly/android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
+* 💻 [Windows](https://download.privacysafe.app/latest/windows/) ([checksum](https://download.privacysafe.app/latest/windows/checksums.json))
+* 🍏 [Mac](https://download.privacysafe.app/latest/mac/) ([checksum](https://download.privacysafe.app/latest/mac/checksums.json))
+* 🐧 [GNU/Linux](https://download.privacysafe.app/latest/linux/) ([checksum](https://download.privacysafe.app/latest/linux/checksums.json))
+* 🤖 [Android testing](https://download.privacysafe.app/latest/android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
 
 [Sign up FREE](https://privacysafe.app) at `@privacysafe.xyz`, choose [Gold PRO](https://psafe.ly/pspro) at ``@privacysafe.me``, or [Platinum VIP](https://psafe.ly/psvip) at ``@privacysafe.gg``. Organizations can use their own domain and deploy the [server code](https://github.com/PrivacySafe/spec-server).
 
