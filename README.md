@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://privacysafe.app"><img src="assets/privacysafe_horizontal_logo_lock_reg_padded.svg" width="600" /></a>
+  <a href="https://privacysafe.app"><img src="../assets/privacysafe_horizontal_logo_lock_reg_padded.svg" width="600" /></a>
 </p>
 <h1 align="center">Your Private Life, Locked In</h1>
 
@@ -8,26 +8,26 @@ Sign up free, no phone number required 👉 <a href="https://privacysafe.app">Pr
 </h2>
 
 <p align="center">
-  <a href="https://download.privacysafe.app/nightly/windows/" target="_blank">
-  <img src="assets/download-windows.svg" alt="Get it on Windows" width="160">
+  <a href="https://download.privacysafe.app/latest/windows/" target="_blank">
+  <img src="../assets/download-windows.svg" alt="Get it on Windows" width="160">
   </a>
-  <a href="https://download.privacysafe.app/nightly/mac/" target="_blank">
-  <img src="assets/download-mac.svg" alt="Get it on Mac" width="160">
+  <a href="https://download.privacysafe.app/latest/mac/" target="_blank">
+  <img src="../assets/download-mac.svg" alt="Get it on Mac" width="160">
   </a>
-  <a href="https://download.privacysafe.app/nightly/linux/" target="_blank">
-  <img src="assets/download-gnulinux.svg" alt="Get it on GNU/Linux" width="160">
+  <a href="https://download.privacysafe.app/latest/linux/" target="_blank">
+  <img src="../assets/download-gnulinux.svg" alt="Get it on GNU/Linux" width="160">
   </a>
-  <a href="https://download.privacysafe.app/nightly/android" target="_blank">
-  <img src="assets/download-android.svg" alt="Get it on Android" width="160">
+  <a href="https://download.privacysafe.app/latest/android" target="_blank">
+  <img src="../assets/download-android.svg" alt="Get it on Android" width="160">
   </a>
 </p>
 
 PrivacySafe is privacy-by-design software for home, teams, and organizations. Get PrivacySafe on:
 
-* 💻 [Windows](https://download.privacysafe.app/nightly/windows/) ([checksum](https://download.privacysafe.app/nightly/windows/checksums.json))
-* 🍏 [Mac](https://download.privacysafe.app/nightly/mac/) ([checksum](https://download.privacysafe.app/nightly/mac/checksums.json))
-* 🐧 [GNU/Linux](https://download.privacysafe.app/nightly/linux/) ([checksum](https://download.privacysafe.app/nightly/linux/checksums.json))
-* 🤖 [Android testing](https://download.privacysafe.app/nightly/android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
+* 💻 [Windows](https://download.privacysafe.app/latest/windows/) ([checksum](https://download.privacysafe.app/latest/windows/checksums.json))
+* 🍏 [Mac](https://download.privacysafe.app/latest/mac/) ([checksum](https://download.privacysafe.app/latest/mac/checksums.json))
+* 🐧 [GNU/Linux](https://download.privacysafe.app/latest/linux/) ([checksum](https://download.privacysafe.app/latest/linux/checksums.json))
+* 🤖 [Android testing](https://download.privacysafe.app/latest/android/) ([checksum](https://download.privacysafe.app/nightly-android/checksums.json))
 
 [Sign up FREE](https://privacysafe.app) at `@privacysafe.xyz`, choose [Gold PRO](https://psafe.ly/pspro) at ``@privacysafe.me``, or [Platinum VIP](https://psafe.ly/psvip) at ``@privacysafe.gg``. Organizations can use their own domain and deploy the [server code](https://github.com/PrivacySafe/spec-server).
 
@@ -130,14 +130,14 @@ Contributions are welcome. Please fork, remix, and submit focused pull requests.
 
 ⚠️ Never send sensitive information about yourself or other users through ordinary direct messages or unencrypted email.
 
-- **Contribution terms:** [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- **Contributor Guidelines:** [`CONTRIBUTOR_GUIDELINES.md`](CONTRIBUTOR_GUIDELINES.md)
-- **Code of Conduct:** [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
-- **AI Contribution Policy:** [`AI_POLICY.md`](AI_POLICY.md)
-- **Security and vulnerability reporting:** [`SECURITY.md`](SECURITY.md)
-- **Contributor information:** [`CONTRIBUTORS.md`](CONTRIBUTORS.md)
+- **Contribution terms:** [`CONTRIBUTING.md`](../CONTRIBUTING.md)
+- **Contributor Guidelines:** [`CONTRIBUTOR_GUIDELINES.md`](../CONTRIBUTOR_GUIDELINES.md)
+- **Code of Conduct:** [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md)
+- **AI Contribution Policy:** [`AI_POLICY.md`](../AI_POLICY.md)
+- **Security and vulnerability reporting:** [`SECURITY.md`](../SECURITY.md)
+- **Contributor information:** [`CONTRIBUTORS.md`](../CONTRIBUTORS.md)
 
-Our [Values](VALUES.md) explain the principles behind the project. The [8 Simple Rules](https://privacysafe.social/about#8-simple-rules), [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines), and contributor documents above put those principles into practice in different spaces.
+Our [Values](../VALUES.md) explain the principles behind the project. The [8 Simple Rules](https://privacysafe.social/about#8-simple-rules), [PrivacySafe Foundation Community Guidelines](https://privacysafe.foundation/community-guidelines), and contributor documents above put those principles into practice in different spaces.
 
 ## 📰 Newsletter
 
