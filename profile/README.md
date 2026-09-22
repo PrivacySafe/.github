@@ -49,7 +49,7 @@ PrivacySafe is modular and portable. Portable builds can run from removable medi
 ### Platform implementations
 
 * **PrivacySafe Desktop / Client-side 3NWeb Platform:** Electron-based desktop implementation for Windows, Mac, and GNU/Linux. The platform core communicates with 3NWeb services, performs cryptographic operations, keeps user keys, and exposes APIs to 3NWeb applications. [Source](https://github.com/PrivacySafe/privacysafe-platform-electron)
-* **PrivacySafe Android Platform Bundle:** Android distribution of the PrivacySafe platform bundled with 3NWeb applications for Android stores and direct APK distribution. [Source](https://github.com/PrivacySafe/privacysafe-platform-android-bundle)
+* **PrivacySafe Android Platform Bundle:** Android distribution of the PrivacySafe platform bundled with 3NWeb applications for Android stores and direct APK distribution. [Source](https://github.com/PrivacySafe/privacysafe-bundles)
 
 Other client-side pieces:
 
